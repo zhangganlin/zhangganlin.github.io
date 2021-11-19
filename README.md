@@ -1,4 +1,4 @@
-My personal website/blog, template forked by [Rob Williams](https://github.com/jayrobwilliams)
+My personal website/blog, template forked from [Rob Williams](https://github.com/jayrobwilliams)
 
 ---
 
