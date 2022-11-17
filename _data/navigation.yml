@@ -8,11 +8,14 @@ main:
   # - title: "Research"
   #   url: /research/
 
+  - title: "Selected Projects"
+    url: /projects/
+
   # - title: "Teaching"
   #   url: /teaching/
 
-  - title: "Posts"
-    url: /posts/
+  # - title: "Posts"
+  #   url: /posts/
     
   # - title: "CV"
   #   url: /cv/
