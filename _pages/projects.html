@@ -61,11 +61,26 @@ author_profile: true
 <hr>
 <heading><strong>NICE-SLAM with Adaptive Feature Grids</strong> </heading>
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
-  <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
+  <tr onmouseout="nice_stop()" onmouseover="nice_start()"> 
+    
     <td width="40%">
       <div class="one">
-      <img src="/images/projects/niceslam.gif" width="320" height="180"> </div>
+      <div class="two" id = 'nice_shape'>
+        <img src="/images/projects/niceslam.gif" width="320" > </div>
+      <img src='/images/projects/niceslam.png' width="320" >
+      </div>
+      
+      <script type="text/javascript">
+      function nice_start() { 
+      document.getElementById('nice_shape').style.opacity = "1";
+      }
+      function nice_stop() { 
+      document.getElementById('nice_shape').style.opacity = "0"; 
+      }
+      nice_stop()
+      </script>
     </td>
+
     <td valign="top" width="75%">
           <papertitle>
           <strong>
@@ -90,7 +105,6 @@ author_profile: true
 
 <heading><strong>Optimization by Particle Swarm Using Surrogates via Bunch-Kaufman Pivoting and Standard Optimization</strong> </heading>
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
-  <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
     <td width="30%">
       <div class="one">
       <img src="/images/projects/opus.png" width="320" height="180"> </div>
@@ -113,13 +127,11 @@ author_profile: true
       <br>
       Focus on speeding up black-box optimization algorithm OPUS from paper <a href="https://acl.inf.ethz.ch/teaching/fastcode/2022/project/project-ideas/particle-swarm.pdf">Particle Swarm with Radial Basis Function Surrogates for Expensive Black-box Optimization</a> by Rommel G. Regis. Besides, we implement the speed-up C++ version of Bunch-Kaufman Pivoting.
     </td>
-  </tr>
 </table>
 <hr>
 
 <heading><strong>Improved PSMNet for Deep Stereo Disparity Estimation</strong> </heading>
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
-  <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
     <td width="40%">
       <div class="one">
       <img src="/images/projects/psm.png" width="320" height="180"> </div>
@@ -142,7 +154,6 @@ author_profile: true
       <br>
       Combining PSM Net, group-wise corr, dilatedResNet, semantic segmentation information to estimate accurate disparity of stereo image pairs efficiently.
     </td>
-  </tr>
 </table>
 <hr>
 
@@ -151,7 +162,7 @@ author_profile: true
   <tr onmouseout="roboart_stop()" onmouseover="roboart_start()">  
           <td width="40%">
             <div class="one">
-            <div class="two" id = 'mono_shape'>
+            <div class="two" id = 'roboart_shape'>
               <video  width="300" muted autoplay loop>
                 <source src="/images/projects/roboart.mp4" type="video/mp4">
                     Your browser does not support the video tag.
@@ -162,10 +173,10 @@ author_profile: true
             
             <script type="text/javascript">
             function roboart_start() { 
-            document.getElementById('mono_shape').style.opacity = "1";
+            document.getElementById('roboart_shape').style.opacity = "1";
             }
             function roboart_stop() { 
-            document.getElementById('mono_shape').style.opacity = "0"; 
+            document.getElementById('roboart_shape').style.opacity = "0"; 
             }
             roboart_stop()
             </script>
