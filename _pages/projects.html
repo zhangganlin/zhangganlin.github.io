@@ -55,10 +55,51 @@ author_profile: true
 
 
 
-
-
-
 <hr>
+  <heading><strong>Holo-Spot: Accessible Robot Control in Mixed Reality</strong> </heading>
+  <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
+    <tr onmouseout="holo_stop()" onmouseover="holo_start()">  
+            <td width="40%">
+              <div class="one">
+                <div class="two" id = 'holo_shape'>
+                  <img src='/images/projects/holospot.gif' width="320">
+                </div>
+              <img src='/images/projects/holospot.png' width="320">
+              </div>
+              
+              <script type="text/javascript">
+              function holo_start() { 
+              document.getElementById('holo_shape').style.opacity = "1";
+              }
+              function holo_stop() { 
+              document.getElementById('holo_shape').style.opacity = "0"; 
+              }
+              holo_stop()
+              </script>
+            </td>
+      <td valign="top" width="75%">
+            <papertitle>
+            <strong>
+            <a href="https://zhangganlin.github.io/Holo-Spot-Page/index.html">Holo-Spot: Accessible Robot Control in Mixed Reality</a>
+            </strong>
+            </papertitle>
+      <br>
+          <strong>Ganlin Zhang*</strong>,
+          <a href="https://github.com/dehezhang2">Deheng Zhang*</a>,
+          <a href="https://github.com/DecAd3"> Longteng Duan*</a>,
+          <a href="https://github.com/guo-han"> Guo Han*</a>
+        <br>
+          <em>Course project of Mixed Realiy 2022 in ETH Zurich</em>
+        <br>
+        <a href="https://github.com/dehezhang2/holo-spot">Github Repo </a> | 
+        <a href="https://zhangganlin.github.io/Holo-Spot-Page/index.html">Project website</a>
+        <br>
+        In this project, we design, implement and deploy a mixed-reality-based method with HoloLens 2 that enables users to control the Boston Dynamics Spot robot.</td>
+    </tr>
+  </table>
+  <hr>
+
+
 <heading><strong>NICE-SLAM with Adaptive Feature Grids</strong> </heading>
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
   <tr onmouseout="nice_stop()" onmouseover="nice_start()"> 
@@ -134,7 +175,7 @@ author_profile: true
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
     <td width="40%">
       <div class="one">
-      <img src="/images/projects/psm.png" width="320" height="180"> </div>
+      <img src="/images/projects/psm.png" width="320"> </div>
     </td>
     <td valign="top" width="75%">
           <papertitle>
@@ -196,7 +237,8 @@ author_profile: true
       <br>
         <em>Course project of Introduction to Robotics 2019 in UC Berkeley</em>
       <br>
-      <a href="https://github.com/Ten1o/EE106A-RoboArt">Github Repo</a>
+      <a href="https://github.com/Ten1o/EE106A-RoboArt">Github Repo</a> | 
+      <a href="https://sites.google.com/berkeley.edu/ee106a-roboart">Project website</a>
       <br>
       We design a path-finding algorithm that could generate a path to draw a potrait/character in one stroke. Then we use our self-designed control system to draw these path. This project would be useful for any arm-robots with at least 4 joints.
     </td>
