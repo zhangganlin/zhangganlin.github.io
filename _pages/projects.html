@@ -61,12 +61,16 @@ author_profile: true
     <tr onmouseout="holo_stop()" onmouseover="holo_start()">  
             <td width="40%">
               <div class="one">
-                <div class="two" id = 'holo_shape'>
-                  <img src='/images/projects/holospot.gif' width="320">
+                <div class="two" id='holo_shape'>
+                  <!-- <img src='/images/projects/holospot.gif' width="100%"> -->
+                  <video  width="100%" muted autoplay loop>
+                    <source src="/images/projects/holospot.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                  </div>
+                  <img src='/images/projects/holospot.png' width="100%"/>
                 </div>
-              <img src='/images/projects/holospot.png' width="320">
-              </div>
-              
+                            
               <script type="text/javascript">
               function holo_start() { 
               document.getElementById('holo_shape').style.opacity = "1";
@@ -107,8 +111,8 @@ author_profile: true
     <td width="40%">
       <div class="one">
       <div class="two" id = 'nice_shape'>
-        <img src="/images/projects/niceslam.gif" width="320" > </div>
-      <img src='/images/projects/niceslam.png' width="320" >
+        <img src="/images/projects/niceslam.gif" width="100%" > </div>
+      <img src='/images/projects/niceslam.png' width="100%" >
       </div>
       
       <script type="text/javascript">
@@ -148,7 +152,7 @@ author_profile: true
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
     <td width="30%">
       <div class="one">
-      <img src="/images/projects/opus.png" width="320" height="180"> </div>
+      <img src="/images/projects/opus.png" width="100%"> </div>
     </td>
     <td valign="top" width="75%">
           <papertitle>
@@ -175,7 +179,7 @@ author_profile: true
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
     <td width="40%">
       <div class="one">
-      <img src="/images/projects/psm.png" width="320"> </div>
+      <img src="/images/projects/psm.png" width="100%"> </div>
     </td>
     <td valign="top" width="75%">
           <papertitle>
@@ -204,12 +208,12 @@ author_profile: true
           <td width="40%">
             <div class="one">
             <div class="two" id = 'roboart_shape'>
-              <video  width="300" muted autoplay loop>
+              <video  width="100%" muted autoplay loop>
                 <source src="/images/projects/roboart.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
               </div>
-            <img src='/images/projects/roboart.png' width="320">
+            <img src='/images/projects/roboart.png' width="100%">
             </div>
             
             <script type="text/javascript">
