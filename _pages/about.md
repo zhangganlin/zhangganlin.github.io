@@ -15,6 +15,6 @@ Now I am doing my semester thesis in [Computer Vision and Geometry Group](https:
 My current research interet is 3D Vision, more specifically, Structure from Motion and SLAM.
 
 ## Education
-- *<font size=3>2021 - Present</font>*<font size=3>, Master of Science, Computer Science, [ETH Zurich](https://ethz.ch/en.html), Switzerland.</font> 
-- *<font size=3>2017 - 2021</font>*<font size=3>, Bachelor of Engineering, Computer Science, [ShanghaiTech University](http://www.shanghaitech.edu.cn/eng/), China. </font>
-- *<font size=3>2019 - 2020</font>*<font size=3>, Visiting Student, EECS, [UC Berkeley](https://www.berkeley.edu/), United States. </font>
+- *<font size=3>2021 - Present</font>*<font size=3>, Master of Science, Computer Science, ETH Zurich, Switzerland.</font> 
+- *<font size=3>2017 - 2021</font>*<font size=3>, Bachelor of Engineering, Computer Science, ShanghaiTech University, China. </font>
+- *<font size=3>2019 - 2020</font>*<font size=3>, Visiting Student, EECS, UC Berkeley, United States. </font>
