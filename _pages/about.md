@@ -21,7 +21,7 @@ My current research interet is 3D Vision, more specifically, Structure from Moti
 
 ## News
 <ul>
-  <li><em>2023.03</em>:  🎉🎉 My first first author paper ''Revisiting Rotation Averaging: Uncertainties and Robust Losses'' has been accepted by CVPR 2023! Thanks to my advisors and coauthors <a href="https://vlarsson.github.io/">Prof. Dr. Viktor Larsson</a> and <a href="https://people.inf.ethz.ch/dbarath/">Dr. Dániel Béla Baráth</a> for the huge amount of helps. The code has already been available in <a href="https://github.com/zhangganlin/GlobalSfMpy">Github</a>. And the paper will be uploaded to ArXiv soon.</li>
+  <li><em>2023.03</em>:  🎉🎉 My first first author paper <a href="https://arxiv.org/abs/2303.05195">''Revisiting Rotation Averaging: Uncertainties and Robust Losses''</a> has been accepted by CVPR 2023! Thanks to my advisors and coauthors <a href="https://vlarsson.github.io/">Prof. Dr. Viktor Larsson</a> and <a href="https://people.inf.ethz.ch/dbarath/">Dr. Dániel Béla Baráth</a> for the huge amount of helps. The code has already been available in <a href="https://github.com/zhangganlin/GlobalSfMpy">Github</a>.</li>
 
 </ul>
 
