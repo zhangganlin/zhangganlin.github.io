@@ -89,7 +89,7 @@ author:
   employer         :
   pubmed           :
   orcid            : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=1B_T56IAAAAJ"
   email            : "zhangga@student.ethz.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
