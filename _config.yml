@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ganlin Zhang"
+title                    : "Ganlin Zhang 张甘霖"
 title_separator          : "-"
 name                     : &name "Ganlin Zhang"
 description              : &description "MSc of Computer Science student in ETH Zurich"
