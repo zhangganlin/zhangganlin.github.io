@@ -27,4 +27,4 @@ My current research interet is 3D Vision, more specifically, Structure from Moti
 
 ---
 
-  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=400&t=n&d=rM7BoV2_o5IxNyY7EAufsftBDgwOhxdU0h5gt6JOQ5o&co=ffffff&cmo=79c4d3&cmn=3a90cc&ct=ffffff"></script>
+  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=400&t=tt&d=rM7BoV2_o5IxNyY7EAufsftBDgwOhxdU0h5gt6JOQ5o&co=ffffff&cmo=79c4d3&cmn=3a90cc&ct=ffffff"></script>
