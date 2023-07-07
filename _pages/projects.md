@@ -18,11 +18,9 @@ author_profile: true
 {% endfor %} -->
 
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
   <head>
   <meta name="google-site-verification" content="xDNWUvx6Q5EWK5YYSyKvK8DZTmvXhKsGX203Ll-BFFE" >	
-  <meta name=viewport content=“width=800”>
   <meta name="generator" content="HTML Tidy for Linux/x86 (vers 11 February 2007), see www.w3.org">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <style type="text/css">
