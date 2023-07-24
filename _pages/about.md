@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Ganlin Zhang (张甘霖), I am currently a MSc student majoring Computer Science in <a href="https://ethz.ch/en.html" target="_blank">ETH Zurich</a>. I obtained my Bachelor degree in <a href="http://www.shanghaitech.edu.cn/eng/" target="_blank">ShanghaiTech University</a>, I was supervised by <a href="https://mpl.sist.shanghaitech.edu.cn/Director.html" target="_blank">Prof. Dr. Laurent Kneip</a> for my Bachelor thesis.
 
-I also worked closely with <a href="https://people.inf.ethz.ch/dbarath/" target="_blank">Dr. Dániel Béla Baráth</a> and <a href="https://vlarsson.github.io/" target="_blank">Prof. Dr. Viktor Larsson</a> for my semester thesis in <a href="https://www.cvg.ethz.ch/" target="_blank">Computer Vision and Geometry Group</a> during my Master's study.
+Now I am doing my Master thesis at  <a href="https://vision.ee.ethz.ch/" target="_blank">Computer Vision Lab</a>. I also worked closely with <a href="https://people.inf.ethz.ch/dbarath/" target="_blank">Dr. Dániel Béla Baráth</a> and <a href="https://vlarsson.github.io/" target="_blank">Prof. Dr. Viktor Larsson</a> for my semester thesis at <a href="https://www.cvg.ethz.ch/" target="_blank">Computer Vision and Geometry Group</a> during my Master's study.
 
 My current research interet is 3D Vision, more specifically, Structure from Motion and SLAM.
 
