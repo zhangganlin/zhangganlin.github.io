@@ -234,7 +234,7 @@ author_profile: true
         <strong>Ganlin Zhang*</strong>,
         <a href="https://www.linkedin.com/in/teng-xu-%E8%AE%B8-%E8%85%BE-243812180/" target="_blank">Teng Xu*</a>,
         <a href="https://weijielyu.me/" target="_blank"> Weijie Lyu*</a>,
-        <a href="https://www.linkedin.com/in/zhenzhong-anthony-tang-82334a210/" target="_blank"> Zhenzhong Tang*</a>
+        <a href="https://toytag.net/" target="_blank"> Zhenzhong Tang*</a>
         <a href="https://www.linkedin.com/in/ziyuanhu/" target="_blank"> Ziyuan Hu*</a>
       <br>
         <em>Course project of Introduction to Robotics 2019 in UC Berkeley</em>
