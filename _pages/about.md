@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+---
+<b><i><font color="#833929">Currently I am looking for a Ph.D. position in 3D Vision, looking forward to chatting with you if you are interested!</font></i></b>  
+
+---
+
 My name is Ganlin Zhang (张甘霖), I am currently a MSc student majoring Computer Science at <a href="https://ethz.ch/en.html" target="_blank">ETH Zurich</a>. I obtained my Bachelor degree at <a href="http://www.shanghaitech.edu.cn/eng/" target="_blank">ShanghaiTech University</a>, I was supervised by <a href="https://mpl.sist.shanghaitech.edu.cn/Director.html" target="_blank">Prof. Dr. Laurent Kneip</a> for my Bachelor thesis.
 
 Now I am doing my Master thesis about dense neural SLAM at  <a href="https://vision.ee.ethz.ch/" target="_blank">Computer Vision Lab</a>. I also worked closely with <a href="https://people.inf.ethz.ch/dbarath/" target="_blank">Dr. Dániel Béla Baráth</a> and <a href="https://vlarsson.github.io/" target="_blank">Dr. Viktor Larsson</a> for my semester thesis at <a href="https://www.cvg.ethz.ch/" target="_blank">Computer Vision and Geometry Group</a> during my Master's study.
