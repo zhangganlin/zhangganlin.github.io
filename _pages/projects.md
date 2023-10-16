@@ -233,7 +233,7 @@ author_profile: true
     <br>
         <strong>Ganlin Zhang*</strong>,
         <a href="https://www.linkedin.com/in/teng-xu-%E8%AE%B8-%E8%85%BE-243812180/" target="_blank">Teng Xu*</a>,
-        <a href="https://weijielyu.me/" target="_blank"> Weijie Lyu*</a>,
+        <a href="https://weijielyu.github.io/" target="_blank"> Weijie Lyu*</a>,
         <a href="https://toytag.net/" target="_blank"> Zhenzhong Tang*</a>
         <a href="https://www.linkedin.com/in/ziyuanhu/" target="_blank"> Ziyuan Hu*</a>
       <br>
