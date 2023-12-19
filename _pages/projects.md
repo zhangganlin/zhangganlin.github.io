@@ -65,8 +65,7 @@ author_profile: true
                     </video>
                   </div>
                   <img src='/images/projects/holospot.png' width="100%"/>
-                </div>
-                            
+                </div>        
               <script type="text/javascript">
               function holo_start() { 
               document.getElementById('holo_shape').style.opacity = "1";
@@ -103,14 +102,12 @@ author_profile: true
 <heading><strong>NICE-SLAM with Adaptive Feature Grids</strong> </heading>
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
   <tr onmouseout="nice_stop()" onmouseover="nice_start()"> 
-    
     <td width="40%">
       <div class="one">
       <div class="two" id = 'nice_shape'>
         <img src="/images/projects/niceslam.gif" width="100%" > </div>
       <img src='/images/projects/niceslam.png' width="100%" >
       </div>
-      
       <script type="text/javascript">
       function nice_start() { 
       document.getElementById('nice_shape').style.opacity = "1";
@@ -121,7 +118,6 @@ author_profile: true
       nice_stop()
       </script>
     </td>
-
     <td valign="top" width="75%">
           <papertitle>
           <strong>
@@ -213,7 +209,6 @@ author_profile: true
               </div>
             <img src='/images/projects/roboart.png' width="100%">
             </div>
-            
             <script type="text/javascript">
             function roboart_start() { 
             document.getElementById('roboart_shape').style.opacity = "1";
