@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
----
-<b><i><font color="#833929">Currently I am looking for a Ph.D. position in 3D Vision, looking forward to chatting with you if you are interested!</font></i></b>  
 
 ---
 
@@ -20,7 +18,7 @@ Now I am doing my Master thesis about dense neural SLAM at  <a href="https://vis
 My current research interet is 3D Vision, more specifically, Structure from Motion and SLAM.
 
 ## Education
-- *<font size=3>2021 - Present</font>*<font size=3>, Master of Science, Computer Science, ETH Zurich, Switzerland.</font> 
+- *<font size=3>2021 - 2024</font>*<font size=3>, Master of Science, Computer Science, ETH Zurich, Switzerland.</font> 
 - *<font size=3>2017 - 2021</font>*<font size=3>, Bachelor of Engineering, Computer Science, ShanghaiTech University, China. </font>
 - *<font size=3>2019 - 2020</font>*<font size=3>, Visiting Student, EECS, UC Berkeley, United States. </font>
 
