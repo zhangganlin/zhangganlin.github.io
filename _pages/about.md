@@ -24,7 +24,7 @@ My current research interet is 3D Vision, more specifically, SLAM and Structure 
 
 ## News
 <ul>
-  <li><em>2024.02</em>: I will join <a href="https://cvg.cit.tum.de/" target="_blank">TUM Computer Vision Group </a> as a PhD student, supervised by <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Prof. Daniel Cremers</a> in Spring 2024 after my 2.5 years Master study!</li>
+  <li><em>2024.02</em>: I will join <a href="https://cvg.cit.tum.de/" target="_blank">TUM Computer Vision Group </a> as a PhD student, supervised by <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Prof. Daniel Cremers</a> later this year after my 2.5 years Master study!</li>
   <li><em>2023.03</em>:  🎉🎉 My first first-author paper <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Revisiting_Rotation_Averaging_Uncertainties_and_Robust_Losses_CVPR_2023_paper.pdf" target="_blank">"Revisiting Rotation Averaging: Uncertainties and Robust Losses"</a> has been accepted by CVPR 2023! Thanks to my advisors and coauthors <a href="https://vlarsson.github.io/" target="_blank">Dr. Viktor Larsson</a> and <a href="https://people.inf.ethz.ch/dbarath/" target="_blank">Dr. Dániel Béla Baráth</a> for the huge amount of helps. The code has already been available in <a href="https://github.com/zhangganlin/GlobalSfMpy" target="_blank">Github</a>.</li>
 
   <!-- <a href="javascript:toggleblock(&#39;old_news&#39;)">---- show more ----</a>
