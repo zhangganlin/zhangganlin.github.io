@@ -3,13 +3,19 @@ main:
   - title: "About me"
 
   - title: "Publications"
-    url: /publications/
-    
+    url: "/#publications"
+  
+  - title: "Selected Projects"
+    url: "/#selected-projects"
+
+  # - title: "Publications"
+  #   url: /publications/
+  
   # - title: "Research"
   #   url: /research/
 
-  - title: "Selected Projects"
-    url: /projects/
+  # - title: "Selected Projects"
+  #   url: /projects/
 
   # - title: "Teaching"
   #   url: /teaching/
