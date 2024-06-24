@@ -34,11 +34,11 @@
             </strong>
             </papertitle>
       <br>
-          <strong>Ganlin Zhang*</strong>,
-          <a href="https://eriksandstroem.github.io/" target="_blank">Erik Sandström*</a>,
-          <a href="https://youmi-zym.github.io/" target="_blank"> Youmin Zhang</a>,
-          <a href="https://manthan99.github.io/" target="_blank"> Manthan Patel</a>
-          <a href="https://vision.ee.ethz.ch/people-details.OTAyMzM=.TGlzdC8zMjcxLC0xOTcxNDY1MTc4.html" target="_blank"> Luc Van Gool</a>
+          <strong>Ganlin Zhang*</strong>, 
+          <a href="https://eriksandstroem.github.io/" target="_blank">Erik Sandström*</a>, 
+          <a href="https://youmi-zym.github.io/" target="_blank"> Youmin Zhang</a>, 
+          <a href="https://manthan99.github.io/" target="_blank"> Manthan Patel</a>, 
+          <a href="https://vision.ee.ethz.ch/people-details.OTAyMzM=.TGlzdC8zMjcxLC0xOTcxNDY1MTc4.html" target="_blank"> Luc Van Gool</a>, 
           <a href="https://cvg.ethz.ch/team/Dr-Martin-R-Oswald" target="_blank"> Martin R. Oswald</a>
         <br>
           <em>Preprint on ArXiv, 2024</em>
