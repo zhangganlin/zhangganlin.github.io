@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ganlin Zhang 张甘霖"
 title_separator          : "-"
 name                     : &name "Ganlin Zhang"
-description              : &description "MSc CS @ ETH Zurich\nIncoming PhD student @ TU Munich"
+description              : &description "PhD student in Computer Vision at TU Munich"
 url                      : https://ganlinzhang.xyz # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhangganlin/zhangganlin.github.io"
@@ -85,7 +85,7 @@ author:
   name             : *name
   avatar           : "profile_s.jpg"
   bio              : *description
-  location         : "Zurich"
+  location         : "Munich"
   employer         :
   pubmed           :
   orcid            : "0009-0001-6089-8225"
