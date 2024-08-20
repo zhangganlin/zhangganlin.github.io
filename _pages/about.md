@@ -42,15 +42,15 @@ redirect_from:
 
 ---
 
-Hi, I'm Ganlin Zhang (张甘霖), a PhD student at <a href="https://www.tum.de/en/" target="_blank">Technical University of Munich</a>, supervised by <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Prof. Daniel Cremers</a>. Currently I focus on SLAM and Structure from Motion.
+Hi, I'm Ganlin Zhang (张甘霖), a PhD student at <a href="https://www.tum.de/en/" target="_blank">Technical University of Munich</a>, supervised by <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Prof. Daniel Cremers</a>. Currently I focus on Visual SLAM, Structure from Motion and 3D reconstruction.
 
-Previously, I received my Master's degree in Computer Science from <a href="https://ethz.ch/en.html" target="_blank">ETH Zurich</a>, where I worked on 3D Vision research projects with <a href="https://icu.ee.ethz.ch/people/head.html" target="_blank">Prof. Luc Van Gool</a> and <a href="https://people.inf.ethz.ch/marc.pollefeys/" target="_blank">Prof. Marc Pollefeys</a>. Before this, I obtained my Bachelor's degree in Computer Science from <a href="http://www.shanghaitech.edu.cn/eng/" target="_blank">ShanghaiTech University</a>, supervised by <a href="https://mpl.sist.shanghaitech.edu.cn/Director.html" target="_blank">Prof. Laurent Kneip</a>.
+Previously, I received my Master's degree in Computer Science from <a href="https://ethz.ch/en.html" target="_blank">ETH Zurich</a>, where I worked on 3D Vision research projects with <a href="https://icu.ee.ethz.ch/people/head.html" target="_blank">Prof. Luc Van Gool</a> and <a href="https://people.inf.ethz.ch/marc.pollefeys/" target="_blank">Prof. Marc Pollefeys</a>. Before that, I obtained my Bachelor's degree in Computer Science from <a href="http://www.shanghaitech.edu.cn/eng/" target="_blank">ShanghaiTech University</a>, supervised by <a href="https://mpl.sist.shanghaitech.edu.cn/Director.html" target="_blank">Prof. Laurent Kneip</a>. During my undergraduate studies, I also spent a year at UC Berkeley, as a visiting student. 
 
-## Education
+<!-- ## Education
 - *<font size=3>2024 - Now</font>*<font size=3>, PhD, Computer Science, TUM, Germany.</font> 
 - *<font size=3>2021 - 2024</font>*<font size=3>, MSc, Computer Science, ETH Zurich, Switzerland.</font> 
 - *<font size=3>2017 - 2021</font>*<font size=3>, BEng, Computer Science, ShanghaiTech University, China.</font>
-- *<font size=3>2019 - 2020</font>*<font size=3>, Visiting Student, EECS, UC Berkeley, United States.</font>
+- *<font size=3>2019 - 2020</font>*<font size=3>, Visiting Student, EECS, UC Berkeley, United States.</font> -->
 
 ## News
 <ul>
