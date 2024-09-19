@@ -10,7 +10,7 @@
 <g transform="matrix(1 0 0 1 540 540)" id="082566e5-a64f-4699-a410-62e97506f5c1"  >
 <rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
 </g>
-<g transform="matrix(2.12 0 0 2.12 540.37 540.19)"  >
+<g transform="matrix(1.9 0 0 1.9 540.37 540.19)"  >
 <path style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-188.07, -75.23)" d="M 140.54052 -31 L 140.54052 142.32822 L 185.27036999999999 142.32822 L 185.27036999999999 -31 L 392.146 -31 L 392.146 181.46685 L 353.00738 181.46685 L 353.00738 8.138629 L 308.2775 8.138629 L 308.2775 181.46685 L 269.13887 181.46685 L 269.13887 8.138629 L 224.40902 8.138629 L 224.40902 181.46685 L 101.4019 181.46685 L 101.4019 8.138629 L 62.26327 8.138629 L 62.26327 181.46685 L 23.12462 181.46685 L 23.12462 8.138629 L -16.014 8.138629 L -16.014 -31 Z" stroke-linecap="round" />
 </g>
 </svg>
