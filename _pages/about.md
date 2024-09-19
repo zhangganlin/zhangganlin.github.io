@@ -46,6 +46,25 @@ Hi, I'm Ganlin Zhang (张甘霖), a PhD student at <a href="https://www.tum.de/e
 
 Previously, I received my Master's degree in Computer Science from <a href="https://ethz.ch/en.html" target="_blank">ETH Zurich</a>, where I worked on 3D Vision research projects with <a href="https://icu.ee.ethz.ch/people/head.html" target="_blank">Prof. Luc Van Gool</a> and <a href="https://people.inf.ethz.ch/marc.pollefeys/" target="_blank">Prof. Marc Pollefeys</a>. Before that, I obtained my Bachelor's degree in Computer Science from <a href="http://www.shanghaitech.edu.cn/eng/" target="_blank">ShanghaiTech University</a>, supervised by <a href="https://mpl.sist.shanghaitech.edu.cn/Director.html" target="_blank">Prof. Laurent Kneip</a>. During my undergraduate studies, I also spent a year at UC Berkeley, as a visiting student. 
 
+
+<div class="institution-list">
+
+<a href="https://www.tum.de/en/">
+    <img src="./images/education/tum_logo_white.svg" style="background-color:#0065bd;" target="_blank">
+</a>
+<a href="https://www.ethz.ch/en">
+    <img src="./images/education/eth_logo_white.svg" style="background-color:#215CAF;" target="_blank">
+</a>
+<a href="https://www.shanghaitech.edu.cn/eng/" target="_blank">
+    <img src="./images/education/shanghaitech_logo.svg">
+</a>
+<a href="https://berkeley.edu" target="_blank">
+    <img src="./images/education/ucb_logo.svg">
+</a>
+
+
+</div>
+
 <!-- ## Education
 - *<font size=3>2024 - Now</font>*<font size=3>, PhD, Computer Science, TUM, Germany.</font> 
 - *<font size=3>2021 - 2024</font>*<font size=3>, MSc, Computer Science, ETH Zurich, Switzerland.</font> 
@@ -55,7 +74,7 @@ Previously, I received my Master's degree in Computer Science from <a href="http
 ## News
 <ul>
   <li><em>2024.08</em>: I have joined <a href="https://cvg.cit.tum.de/" target="_blank">TUM Computer Vision Group </a> as a PhD student, supervised by <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Prof. Daniel Cremers</a>!</li>
-  <li><em>2023.03</em>:  🎉🎉 My first first-author paper <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Revisiting_Rotation_Averaging_Uncertainties_and_Robust_Losses_CVPR_2023_paper.pdf" target="_blank">"Revisiting Rotation Averaging: Uncertainties and Robust Losses"</a> has been accepted by CVPR 2023! Thanks to my advisors and coauthors <a href="https://vlarsson.github.io/" target="_blank">Dr. Viktor Larsson</a> and <a href="https://people.inf.ethz.ch/dbarath/" target="_blank">Dr. Dániel Béla Baráth</a> for the huge amount of helps. The code has already been available in <a href="https://github.com/zhangganlin/GlobalSfMpy" target="_blank">Github</a>.</li>
+  <li><em>2023.03</em>:  🎉🎉 My first first-author paper <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Revisiting_Rotation_Averaging_Uncertainties_and_Robust_Losses_CVPR_2023_paper.pdf" target="_blank">"Revisiting Rotation Averaging: Uncertainties and Robust Losses"</a> has been accepted by CVPR 2023! Thanks to my advisors and coauthors <a href="https://vlarsson.github.io/" target="_blank">Dr. Viktor Larsson</a> and <a href="https://cvg.ethz.ch/team/Dr-Daniel-Bela-Barath" target="_blank">Dr. Dániel Béla Baráth</a> for the huge amount of helps. The code has already been available in <a href="https://github.com/zhangganlin/GlobalSfMpy" target="_blank">Github</a>.</li>
 
   <!-- <a href="javascript:toggleblock(&#39;old_news&#39;)">---- show more ----</a>
   <div id="old_news" style="display: none;">

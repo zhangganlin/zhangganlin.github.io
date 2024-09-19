@@ -73,7 +73,7 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
       text-decoration: underline;
@@ -83,6 +83,20 @@
       }
     }
   }
+
+  .institution-list a:hover {
+      text-decoration: none;
+  }
+  .institution-list a:hover img {
+      box-shadow: 1px 1px 20px 1px #ccc;
+  }
+  .institution-list{
+      text-align:center
+  }
+  .institution-list img{
+      border-radius:50%;box-shadow:none;margin-left:20px;margin-right:20px;width:80px;
+  }
+
 
   dt {
     margin-top: 1em;

@@ -71,7 +71,7 @@
     <br>
         <strong>Ganlin Zhang</strong>,
         <a href="https://vlarsson.github.io/" target="_blank">Viktor Larsson</a>,
-        <a href="https://people.inf.ethz.ch/dbarath/" target="_blank">Daniel Barath</a>
+        <a href="https://cvg.ethz.ch/team/Dr-Daniel-Bela-Barath" target="_blank">Daniel Barath</a>
       <br>
         <em>Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023</em>
       <br>

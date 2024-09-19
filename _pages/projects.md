@@ -101,7 +101,7 @@
     <br>
         <strong>Ganlin Zhang*</strong>,
         <a href="https://dehezhang2.github.io/" target="_blank">Deheng Zhang*</a>,
-        <a href="https://www.linkedin.com/in/junpeng-gao-04574917b/" target="_blank"> Junpeng Gao*</a>,
+        <a href="https://junpenggao233.github.io/" target="_blank"> Junpeng Gao*</a>,
         <a href="https://www.linkedin.com/in/yu-hong-b06322178/" target="_blank"> Yu Hong*</a>
       <br>
         <em>Course project of Advanced System Lab 2022 in ETH Zurich</em>
