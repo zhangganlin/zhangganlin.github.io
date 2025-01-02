@@ -88,9 +88,9 @@ author:
   location         : "Munich"
   employer         :
   pubmed           :
-  orcid            : "0009-0001-6089-8225"
+  # orcid            : "0009-0001-6089-8225"
   googlescholar    : "https://scholar.google.com/citations?user=1B_T56IAAAAJ"
-  email            : "zhangga@student.ethz.ch"
+  email            : "ganlin.zhang@tum.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -112,13 +112,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "GanlinZ"
+  twitter          : "zhang_ganlin"
   vine             :
   weibo            : #"7215413207"
   xing             :
   youtube          :
   wikipedia        :
-
+  bluesky          : "ganlinzhang.xyz"
 
 # Reading Files
 include:
