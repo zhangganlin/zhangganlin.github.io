@@ -4,6 +4,60 @@
   You can also find my articles on my <a href="https://scholar.google.com/citations?user=1B_T56IAAAAJ" target="_blank">Google Scholar profile</a>.
 
 <hr> -->
+
+  <heading><strong>Back on Track: Bundle Adjustment for Dynamic Scene Reconstruction</strong> </heading>
+  <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
+    <tr onmouseout="batrack_stop()" onmouseover="batrack_start()">  
+            <td width="40%">
+              <div class="one">
+                <div class="two" id='batrack_shape' style="display: flex; justify-content: center; height: 100%; width: 100%;">
+                  <video autoplay muted loop playsinline style="height: 100%;">
+                    <source src="https://wrchen530.github.io/projects/batrack/static/videos/demo_small.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                  </video>
+                </div>
+                <img src='https://wrchen530.github.io/images/batrack.png' style="width: 100%;" id='batrack_img'/>
+              </div>       
+              <script type="text/javascript">
+              function batrack_start() { 
+              document.getElementById('batrack_shape').style.opacity = "1";
+              document.getElementById('batrack_img').style.opacity = "0";
+              }
+              function batrack_stop() { 
+              document.getElementById('batrack_shape').style.opacity = "0"; 
+              document.getElementById('batrack_img').style.opacity = "1";
+              }
+              batrack_stop()
+              </script>
+            </td>
+      <td valign="top" width="75%">
+            <papertitle>
+            <strong>
+            <a href="https://wrchen530.github.io/projects/batrack" target="_blank">Back on Track: Bundle Adjustment for Dynamic Scene Reconstruction</a>
+            </strong>
+            </papertitle>
+      <br>
+          <a href="https://wrchen530.github.io/" target="_blank">Weirong Chen</a>, 
+          <strong>Ganlin Zhang</strong>, 
+          <a href="https://fwmb.github.io/" target="_blank">Felix Wimbauer</a>, 
+          <a href="https://rui2016.github.io/" target="_blank">Rui Wang</a>, 
+          <a href="https://arnike.github.io/" target="_blank">Nikita Araslanov</a>, 
+          <a href="https://www.robots.ox.ac.uk/~vedaldi/" target="_blank">Andrea Vedaldi</a>, 
+          <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Daniel Cremers</a>
+        <br>
+          <em>Preprint on ArXiv, 2025</em>
+        <br>
+        <a href="https://wrchen530.github.io/projects/batrack/" target="_blank">Github Repo (Coming Soon) </a> | 
+        <a href="https://arxiv.org/abs/2504.14516" target="_blank">ArXiv</a> | 
+        <a href="https://wrchen530.github.io/projects/batrack/" target="_blank">Project website</a>
+        <br>
+        A method for consistent dynamic scene reconstruction via motion decoupling, bundle adjustment, and global refinement.
+         </td>
+    </tr>
+  </table>
+  <hr>
+
+
   <heading><strong>GlORIE-SLAM: Globally Optimized RGB-only Implicit Encoding Point Cloud SLAM</strong> </heading>
   <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
     <tr onmouseout="glorie_stop()" onmouseover="glorie_start()">  
@@ -38,8 +92,8 @@
           <a href="https://eriksandstroem.github.io/" target="_blank">Erik Sandström*</a>, 
           <a href="https://youmi-zym.github.io/" target="_blank"> Youmin Zhang</a>, 
           <a href="https://manthan99.github.io/" target="_blank"> Manthan Patel</a>, 
-          <a href="https://vision.ee.ethz.ch/people-details.OTAyMzM=.TGlzdC8zMjcxLC0xOTcxNDY1MTc4.html" target="_blank"> Luc Van Gool</a>, 
-          <a href="https://cvg.ethz.ch/team/Dr-Martin-R-Oswald" target="_blank"> Martin R. Oswald</a>
+          <a href="https://vision.ee.ethz.ch/people-details.OTAyMzM=.TGlzdC8zMjg3LC0xOTcxNDY1MTc4.html" target="_blank"> Luc Van Gool</a>, 
+          <a href="https://oswaldm.github.io/" target="_blank"> Martin R. Oswald</a>
         <br>
           <em>Preprint on ArXiv, 2024</em>
         <br>

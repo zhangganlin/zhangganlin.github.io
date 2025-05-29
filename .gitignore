@@ -3,5 +3,6 @@ images/posts/*.tex
 images/posts/*.pdf
 images/posts/*.sty
 _source/*_cache
+.sass-cache
 .Rproj.user
 zhangganlin.github.io.code-workspace

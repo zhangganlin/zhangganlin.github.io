@@ -44,13 +44,13 @@ redirect_from:
 
 Hi, I'm Ganlin Zhang (张甘霖), a PhD student at <a href="https://www.tum.de/en/" target="_blank">Technical University of Munich</a>, supervised by <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Prof. Daniel Cremers</a>. Currently I focus on Visual SLAM, Structure from Motion and 3D reconstruction.
 
-Previously, I received my Master's degree in Computer Science from <a href="https://ethz.ch/en.html" target="_blank">ETH Zurich</a>, where I worked on 3D Vision research projects with <a href="https://icu.ee.ethz.ch/people/head.html" target="_blank">Prof. Luc Van Gool</a> and <a href="https://people.inf.ethz.ch/marc.pollefeys/" target="_blank">Prof. Marc Pollefeys</a>. Before that, I obtained my Bachelor's degree in Computer Science from <a href="http://www.shanghaitech.edu.cn/eng/" target="_blank">ShanghaiTech University</a>, supervised by <a href="https://mpl.sist.shanghaitech.edu.cn/Director.html" target="_blank">Prof. Laurent Kneip</a>. During my undergraduate studies, I also spent a year at UC Berkeley, as a visiting student. 
+Previously, I received my Master's degree in Computer Science from <a href="https://ethz.ch/en.html" target="_blank">ETH Zurich</a>, where I worked on 3D Vision research projects with <a href="https://vision.ee.ethz.ch/people-details.OTAyMzM=.TGlzdC8zMjg3LC0xOTcxNDY1MTc4.html" target="_blank">Prof. Luc Van Gool</a> and <a href="https://people.inf.ethz.ch/marc.pollefeys/" target="_blank">Prof. Marc Pollefeys</a>. Before that, I obtained my Bachelor's degree in Computer Science from <a href="http://www.shanghaitech.edu.cn/eng/" target="_blank">ShanghaiTech University</a>, supervised by <a href="https://mpl.sist.shanghaitech.edu.cn/Director.html" target="_blank">Prof. Laurent Kneip</a>. During my undergraduate studies, I also spent a year at UC Berkeley, as a visiting student. 
 
 
 <div class="institution-list">
 
 <a href="https://www.tum.de/en/">
-    <img src="./images/education/tum_logo_white.svg" style="background-color:#0065bd;" target="_blank">
+    <img src="./images/education/tum_logo_white.svg" style="background-color:#0e396e;" target="_blank">
 </a>
 <a href="https://www.ethz.ch/en">
     <img src="./images/education/eth_logo_white.svg" style="background-color:#215CAF;" target="_blank">
