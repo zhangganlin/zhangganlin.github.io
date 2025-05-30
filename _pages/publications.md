@@ -12,7 +12,7 @@
               <div class="one">
                 <div class="two" id='batrack_shape' style="display: flex; justify-content: center; height: 100%; width: 100%;">
                   <video autoplay muted loop playsinline style="height: 100%;">
-                    <source src="https://wrchen530.github.io/projects/batrack/static/videos/demo_small.mp4" type="video/mp4">
+                    <source src="https://wrchen530.github.io/projects/batrack/static/videos/davis_3.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                   </video>
                 </div>
@@ -20,8 +20,8 @@
               </div>       
               <script type="text/javascript">
               function batrack_start() { 
-              document.getElementById('batrack_shape').style.opacity = "1";
               document.getElementById('batrack_img').style.opacity = "0";
+              document.getElementById('batrack_shape').style.opacity = "1";
               }
               function batrack_stop() { 
               document.getElementById('batrack_shape').style.opacity = "0"; 
