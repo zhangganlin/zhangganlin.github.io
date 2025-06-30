@@ -5,41 +5,7 @@
 
 <hr> -->
 
-  <heading><strong>Splat-SLAM: Globally Optimized RGB-only SLAM with 3D Gaussians</strong> </heading>
-  <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
-      <td width="40%">
-        <div class="one">
-        <img src="/images/publications/splatslam.jpg" width="100%"> </div>
-      </td>
-      <td valign="top" width="75%">
-            <papertitle>
-            <strong>
-              <a href="https://openaccess.thecvf.com/content/CVPR2025W/VOCVALC/papers/Sandstrom_Splat-SLAM_Globally_Optimized_RGB-only_SLAM_with_3D_Gaussians_CVPRW_2025_paper.pdf" target="_blank">Splat-SLAM: Globally Optimized RGB-only SLAM with 3D Gaussians</a>
-            </strong>
-            </papertitle>
-      <br>
-          <a href="https://eriksandstroem.github.io/" target="_blank">Erik Sandström*</a>, 
-          <strong>Ganlin Zhang*</strong>, 
-          <a href="https://scholar.google.com/citations?user=ml3laqEAAAAJ" target="_blank"> Keisuke Tateno</a>, 
-          <a href="https://moechsle.github.io/" target="_blank"> Michael Oechsle</a>, 
-          <a href="https://youmi-zym.github.io/" target="_blank"> Youmin Zhang</a>, 
-          <a href="https://manthan99.github.io/" target="_blank"> Manthan Patel</a>, 
-          <a href="https://vision.ee.ethz.ch/people-details.OTAyMzM=.TGlzdC8zMjg3LC0xOTcxNDY1MTc4.html" target="_blank"> Luc Van Gool</a>, 
-          <a href="https://oswaldm.github.io/" target="_blank"> Martin R. Oswald</a>, 
-          <a href="https://federicotombari.github.io/" target="_blank"> Federico Tombari</a>
-        <br>
-          <em>Conference on Computer Vision and Pattern Recognition Workshop (<strong>CVPRW</strong>), 2025</em>
-        <br>
-        <a href="https://github.com/google-research/Splat-SLAM" target="_blank">Github Repo</a> | 
-        <a href="https://openaccess.thecvf.com/content/CVPR2025W/VOCVALC/papers/Sandstrom_Splat-SLAM_Globally_Optimized_RGB-only_SLAM_with_3D_Gaussians_CVPRW_2025_paper.pdf" target="_blank">Paper</a> | 
-        <a href="https://openaccess.thecvf.com/content/CVPR2025W/VOCVALC/supplemental/Sandstrom_Splat-SLAM_Globally_Optimized_CVPRW_2025_supplemental.pdf" target="_blank">Supp</a>
-        <br>
-        We use a keyframe based frame to frame tracker based on dense optical flow connected to a pose graph for global consistency. For dense mapping, we resort to a 3DGS representation, suitable for extracting both dense geometry and rendering from.
-      </td>
-  </table>
-  <hr>
-
-  <heading><strong>Back on Track: Bundle Adjustment for Dynamic Scene Reconstruction</strong> </heading>
+<heading><strong>Back on Track: Bundle Adjustment for Dynamic Scene Reconstruction</strong> </heading>
   <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
     <tr onmouseout="batrack_stop()" onmouseover="batrack_start()">  
             <td width="40%">
@@ -79,7 +45,7 @@
           <a href="https://www.robots.ox.ac.uk/~vedaldi/" target="_blank">Andrea Vedaldi</a>, 
           <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Daniel Cremers</a>
         <br>
-          <em>Preprint on ArXiv, 2025</em>
+          <em><strong>ICCV</strong>, 2025</em>
         <br>
         <a href="https://wrchen530.github.io/projects/batrack/" target="_blank">Github Repo (Coming Soon) </a> | 
         <a href="https://arxiv.org/abs/2504.14516" target="_blank">ArXiv</a> | 
@@ -92,6 +58,42 @@
   <hr>
 
 
+
+  <heading><strong>Splat-SLAM: Globally Optimized RGB-only SLAM with 3D Gaussians</strong> </heading>
+  <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
+      <td width="40%">
+        <div class="one">
+        <img src="/images/publications/splatslam.jpg" width="100%"> </div>
+      </td>
+      <td valign="top" width="75%">
+            <papertitle>
+            <strong>
+              <a href="https://openaccess.thecvf.com/content/CVPR2025W/VOCVALC/papers/Sandstrom_Splat-SLAM_Globally_Optimized_RGB-only_SLAM_with_3D_Gaussians_CVPRW_2025_paper.pdf" target="_blank">Splat-SLAM: Globally Optimized RGB-only SLAM with 3D Gaussians</a>
+            </strong>
+            </papertitle>
+      <br>
+          <a href="https://eriksandstroem.github.io/" target="_blank">Erik Sandström*</a>, 
+          <strong>Ganlin Zhang*</strong>, 
+          <a href="https://scholar.google.com/citations?user=ml3laqEAAAAJ" target="_blank"> Keisuke Tateno</a>, 
+          <a href="https://moechsle.github.io/" target="_blank"> Michael Oechsle</a>, 
+          <a href="https://youmi-zym.github.io/" target="_blank"> Youmin Zhang</a>, 
+          <a href="https://manthan99.github.io/" target="_blank"> Manthan Patel</a>, 
+          <a href="https://vision.ee.ethz.ch/people-details.OTAyMzM=.TGlzdC8zMjg3LC0xOTcxNDY1MTc4.html" target="_blank"> Luc Van Gool</a>, 
+          <a href="https://oswaldm.github.io/" target="_blank"> Martin R. Oswald</a>, 
+          <a href="https://federicotombari.github.io/" target="_blank"> Federico Tombari</a>
+        <br>
+          <em><strong>CVPRW</strong>, 2025</em>
+        <br>
+        <a href="https://github.com/google-research/Splat-SLAM" target="_blank">Github Repo</a> | 
+        <a href="https://openaccess.thecvf.com/content/CVPR2025W/VOCVALC/papers/Sandstrom_Splat-SLAM_Globally_Optimized_RGB-only_SLAM_with_3D_Gaussians_CVPRW_2025_paper.pdf" target="_blank">Paper</a> | 
+        <a href="https://openaccess.thecvf.com/content/CVPR2025W/VOCVALC/supplemental/Sandstrom_Splat-SLAM_Globally_Optimized_CVPRW_2025_supplemental.pdf" target="_blank">Supp</a>
+        <br>
+        We use a keyframe based frame to frame tracker based on dense optical flow connected to a pose graph for global consistency. For dense mapping, we resort to a 3DGS representation, suitable for extracting both dense geometry and rendering from.
+      </td>
+  </table>
+  <hr>
+
+  
   <heading><strong>GlORIE-SLAM: Globally Optimized RGB-only Implicit Encoding Point Cloud SLAM</strong> </heading>
   <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
     <tr onmouseout="glorie_stop()" onmouseover="glorie_start()">  
@@ -161,7 +163,7 @@
         <a href="https://vlarsson.github.io/" target="_blank">Viktor Larsson</a>,
         <a href="https://cvg.ethz.ch/team/Dr-Daniel-Bela-Barath" target="_blank">Daniel Barath</a>
       <br>
-        <em>Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023</em>
+        <em><strong>CVPR</strong>, 2023</em>
       <br>
       <a href="https://github.com/zhangganlin/GlobalSfMpy" target="_blank">Github Repo</a> | 
       <a href="https://arxiv.org/abs/2303.05195" target="_blank">ArXiv</a>
