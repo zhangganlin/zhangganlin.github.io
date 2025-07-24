@@ -45,7 +45,7 @@
           <a href="https://www.robots.ox.ac.uk/~vedaldi/" target="_blank">Andrea Vedaldi</a>, 
           <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Daniel Cremers</a>
         <br>
-          <em><strong>ICCV</strong>, 2025</em>
+          <em><strong>ICCV</strong> 2025 <span style="color:rgb(255, 94, 0);font-weight: bold;">(oral)</span></em>
         <br>
         <a href="https://wrchen530.github.io/projects/batrack/" target="_blank">Github Repo (Coming Soon) </a> | 
         <a href="https://arxiv.org/abs/2504.14516" target="_blank">ArXiv</a> | 
@@ -82,7 +82,7 @@
           <a href="https://oswaldm.github.io/" target="_blank"> Martin R. Oswald</a>, 
           <a href="https://federicotombari.github.io/" target="_blank"> Federico Tombari</a>
         <br>
-          <em><strong>CVPRW</strong>, 2025</em>
+          <em><strong>CVPRW</strong> 2025</em>
         <br>
         <a href="https://github.com/google-research/Splat-SLAM" target="_blank">Github Repo</a> | 
         <a href="https://openaccess.thecvf.com/content/CVPR2025W/VOCVALC/papers/Sandstrom_Splat-SLAM_Globally_Optimized_RGB-only_SLAM_with_3D_Gaussians_CVPRW_2025_paper.pdf" target="_blank">Paper</a> | 
@@ -163,7 +163,7 @@
         <a href="https://vlarsson.github.io/" target="_blank">Viktor Larsson</a>,
         <a href="https://cvg.ethz.ch/team/Dr-Daniel-Bela-Barath" target="_blank">Daniel Barath</a>
       <br>
-        <em><strong>CVPR</strong>, 2023</em>
+        <em><strong>CVPR</strong> 2023</em>
       <br>
       <a href="https://github.com/zhangganlin/GlobalSfMpy" target="_blank">Github Repo</a> | 
       <a href="https://arxiv.org/abs/2303.05195" target="_blank">ArXiv</a>
