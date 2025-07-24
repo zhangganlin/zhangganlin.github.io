@@ -89,4 +89,9 @@ Previously, I received my Master's degree in Computer Science from <a href="http
 ## Selected Projects
 {% include_relative projects.md %}
 
+
+## Teaching
+{% include_relative teaching.md %}
+
+
   <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=400&t=tt&d=rM7BoV2_o5IxNyY7EAufsftBDgwOhxdU0h5gt6JOQ5o&co=ffffff&cmo=79c4d3&cmn=3a90cc&ct=80b2c6"></script>
