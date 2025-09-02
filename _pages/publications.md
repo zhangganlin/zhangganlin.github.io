@@ -5,6 +5,60 @@
 
 <hr> -->
 
+
+<heading><strong>ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association</strong> </heading>
+  <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
+    <tr onmouseout="vista_stop()" onmouseover="vista_start()">  
+            <td width="40%">
+              <div class="one">
+                <div class="two" id='vista_shape' style="display: flex; justify-content: center; height: 100%; width: 100%;">
+                  <video autoplay muted loop playsinline style="height: 100%;">
+                    <source src="https://ganlinzhang.xyz/vista-slam/media/vista_slam.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                  </video>
+                </div>
+                <img src='/images/publications/vista.png' style="width: 100%;" id='vista_img'/>
+              </div>       
+              <script type="text/javascript">
+              function vista_start() { 
+              document.getElementById('vista_img').style.opacity = "0";
+              document.getElementById('vista_shape').style.opacity = "1";
+              }
+              function vista_stop() { 
+              document.getElementById('vista_shape').style.opacity = "0"; 
+              document.getElementById('vista_img').style.opacity = "1";
+              }
+              vista_stop()
+              </script>
+            </td>
+      <td valign="top" width="75%">
+            <papertitle>
+            <strong>
+            <a href="https://ganlinzhang.xyz/vista-slam" target="_blank">ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association</a>
+            </strong>
+            </papertitle>
+      <br>
+          <strong>Ganlin Zhang</strong>, 
+          <a href="https://shenhanqian.github.io/" target="_blank">Shenhan Qian</a>, 
+          <a href="https://xiwang1212.github.io/homepage/" target="_blank">Xi Wang</a>, 
+          <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Daniel Cremers</a>
+        <br>
+          <!-- <em><strong>ICCV</strong>, 2025</em> -->
+          <em>Preprint on ArXiv, 2025</em>
+        <br>
+        <a href="https://github.com/zhangganlin/vista-slam" target="_blank">Github Repo (Coming Soon) </a> | 
+        <a href="https://arxiv.org" target="_blank">ArXiv</a> | 
+        <a href="https://ganlinzhang.xyz/vista-slam/" target="_blank">Project website</a>
+        <br>
+        ViSTA-SLAM is a real-time monocular dense SLAM pipeline that combines a Symmetric Two-view Association (STA) frontend with Sim(3) pose graph optimization and loop closure, enabling accurate camera trajectories and high-quality 3D scene reconstruction from RGB inputs.
+         </td>
+    </tr>
+  </table>
+  <hr>
+
+
+
+
 <heading><strong>Back on Track: Bundle Adjustment for Dynamic Scene Reconstruction</strong> </heading>
   <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
     <tr onmouseout="batrack_stop()" onmouseover="batrack_start()">  
