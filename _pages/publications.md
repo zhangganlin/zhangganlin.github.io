@@ -47,7 +47,7 @@
           <em>Preprint on ArXiv, 2025</em>
         <br>
         <a href="https://github.com/zhangganlin/vista-slam" target="_blank">Github Repo (Coming Soon) </a> | 
-        <a href="https://arxiv.org" target="_blank">ArXiv</a> | 
+        <a href="https://arxiv.org/abs/2509.01584" target="_blank">ArXiv</a> | 
         <a href="https://ganlinzhang.xyz/vista-slam/" target="_blank">Project website</a>
         <br>
         ViSTA-SLAM is a real-time monocular dense SLAM pipeline that combines a Symmetric Two-view Association (STA) frontend with Sim(3) pose graph optimization and loop closure, enabling accurate camera trajectories and high-quality 3D scene reconstruction from RGB inputs.
