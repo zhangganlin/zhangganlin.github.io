@@ -105,7 +105,6 @@ Previously, I received my Master's degree in Computer Science from <a href="http
     document.getElementById(prefix + "_img").style.opacity = "1";
   }
 
-  // Auto-assign IDs and bind events
   document.querySelectorAll("td[data-prefix]").forEach(td => {
     const prefix = td.dataset.prefix;
     const shape = td.querySelector(".shape");
