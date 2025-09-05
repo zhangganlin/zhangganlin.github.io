@@ -94,5 +94,31 @@ Previously, I received my Master's degree in Computer Science from <a href="http
 ## Teaching
 {% include_relative teaching.md %}
 
+<script>
+  function handleStart(prefix) {
+    document.getElementById(prefix + "_img").style.opacity = "0";
+    document.getElementById(prefix + "_shape").style.opacity = "1";
+  }
 
-  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=400&t=tt&d=rM7BoV2_o5IxNyY7EAufsftBDgwOhxdU0h5gt6JOQ5o&co=ffffff&cmo=79c4d3&cmn=3a90cc&ct=80b2c6"></script>
+  function handleStop(prefix) {
+    document.getElementById(prefix + "_shape").style.opacity = "0"; 
+    document.getElementById(prefix + "_img").style.opacity = "1";
+  }
+
+  // Auto-assign IDs and bind events
+  document.querySelectorAll("td[data-prefix]").forEach(td => {
+    const prefix = td.dataset.prefix;
+    const shape = td.querySelector(".shape");
+    const img = td.querySelector(".img");
+
+    shape.id = prefix + "_shape";
+    img.id = prefix + "_img";
+
+    td.addEventListener("mouseover", () => handleStart(prefix));
+    td.addEventListener("mouseout", () => handleStop(prefix));
+
+    handleStop(prefix); // initialize with image visible
+  });
+</script>
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=400&t=tt&d=rM7BoV2_o5IxNyY7EAufsftBDgwOhxdU0h5gt6JOQ5o&co=ffffff&cmo=79c4d3&cmn=3a90cc&ct=80b2c6"></script>
