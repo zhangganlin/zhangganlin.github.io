@@ -11,8 +11,8 @@
   <tr>  
     <td width="40%" data-prefix="vista">
       <div class="one">
-        <div class="two shape" style="display: flex; justify-content: center; height: 100%; width: 100%;">
-          <video autoplay muted loop playsinline style="height: 100%;">
+        <div class="two shape" style="width: 100%;">
+          <video autoplay muted loop playsinline width="100%">
             <source src="https://ganlinzhang.xyz/vista-slam/media/vista_slam.mp4" type="video/mp4">
             Your browser does not support the video tag.
           </video>
@@ -52,8 +52,8 @@
   <tr>  
     <td width="40%" data-prefix="batrack">
       <div class="one">
-        <div class="two shape" style="display: flex; justify-content: center; height: 100%; width: 100%;">
-          <video autoplay muted loop playsinline style="height: 100%;">
+        <div class="two shape" style="width: 100%;">
+          <video autoplay muted loop playsinline width="100%">
             <source src="https://wrchen530.github.io/projects/batrack/static/videos/davis_3.mp4" type="video/mp4">
             Your browser does not support the video tag.
           </video>

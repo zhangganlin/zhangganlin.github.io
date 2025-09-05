@@ -4,7 +4,7 @@
     <td width="40%" data-prefix="holo">
       <div class="one">
         <div class="two shape" style="width: 100%;">
-          <video width="100%" muted autoplay loop>
+          <video width="100%" muted autoplay loop playsinline>
             <source src="/images/projects/holospot.mp4" type="video/mp4">
             Your browser does not support the video tag.
           </video>
@@ -136,7 +136,7 @@
     <td width="40%" data-prefix="roboart">
       <div class="one">
         <div class="two shape" style="width: 100%;">
-          <video width="100%" muted autoplay loop>
+          <video width="100%" muted autoplay loop playsinline>
             <source src="/images/projects/roboart.mp4" type="video/mp4">
             Your browser does not support the video tag.
           </video>
