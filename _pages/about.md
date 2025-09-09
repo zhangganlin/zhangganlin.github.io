@@ -83,16 +83,13 @@ Previously, I received my Master's degree in Computer Science from <a href="http
 - *<font size=3>2019 - 2020</font>*<font size=3>, Visiting Student, EECS, UC Berkeley, United States.</font> -->
 
 ## News
-<ul>
-  <li><em>2025.06</em>: 🎉🎉 <a href="https://wrchen530.github.io/projects/batrack/" target="_blank">Back on Track</a> has been accepted to ICCV 2025 and selected for an oral presentation!</li>
-  <li><em>2024.08</em>: I have joined <a href="https://cvg.cit.tum.de/" target="_blank">TUM Computer Vision Group </a> as a PhD student, supervised by <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Prof. Daniel Cremers</a>!</li>
-  
-  <a href="javascript:toggleblock(&#39;old_news&#39;)">---- show more ----</a>
-  <div id="old_news" style="display: none;">
-  <li><em>2023.03</em>:  🎉🎉 My first first-author paper <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Revisiting_Rotation_Averaging_Uncertainties_and_Robust_Losses_CVPR_2023_paper.pdf" target="_blank">"Revisiting Rotation Averaging: Uncertainties and Robust Losses"</a> has been accepted by CVPR 2023! Thanks to my advisors and coauthors <a href="https://vlarsson.github.io/" target="_blank">Dr. Viktor Larsson</a> and <a href="https://cvg.ethz.ch/team/Dr-Daniel-Bela-Barath" target="_blank">Dr. Dániel Béla Baráth</a> for the huge amount of helps. The code has already been available in <a href="https://github.com/zhangganlin/GlobalSfMpy" target="_blank">Github</a>.</li>
-  <!-- <li> news test</li> -->
-  </div>
-</ul>
+<div id="news-container" style="overflow-y: auto; padding-right: 10px;">
+  <ul id="news-list">
+    <li><em>2025.06</em>: 🎉🎉 <a href="https://wrchen530.github.io/projects/batrack/" target="_blank">Back on Track</a> has been accepted to ICCV 2025 and selected for an oral presentation!</li>
+    <li><em>2024.08</em>: I have joined <a href="https://cvg.cit.tum.de/" target="_blank">TUM Computer Vision Group </a> as a PhD student, supervised by <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Prof. Daniel Cremers</a>!</li>
+    <li><em>2023.03</em>: 🎉🎉 My first first-author paper <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Revisiting_Rotation_Averaging_Uncertainties_and_Robust_Losses_CVPR_2023_paper.pdf" target="_blank">"Revisiting Rotation Averaging: Uncertainties and Robust Losses"</a> has been accepted by CVPR 2023! Thanks to my advisors and coauthors <a href="https://vlarsson.github.io/" target="_blank">Dr. Viktor Larsson</a> and <a href="https://cvg.ethz.ch/team/Dr-Daniel-Bela-Barath" target="_blank">Dr. Dániel Béla Baráth</a> for the huge amount of help. The code is already available in <a href="https://github.com/zhangganlin/GlobalSfMpy" target="_blank">Github</a>.</li>
+  </ul>
+</div>
 
 ## Publications
 {% include_relative publications.md %}
