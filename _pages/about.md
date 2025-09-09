@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-  <head>
+<head>
   <meta name="google-site-verification" content="xDNWUvx6Q5EWK5YYSyKvK8DZTmvXhKsGX203Ll-BFFE" >	
   <meta name="generator" content="HTML Tidy for Linux/x86 (vers 11 February 2007), see www.w3.org">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -28,15 +28,26 @@ redirect_from:
     -webkit-transition: opacity .2s ease-in-out;
     }
     .fade {
-     transition: opacity .2s ease-in-out;
-     -moz-transition: opacity .2s ease-in-out;
-     -webkit-transition: opacity .2s ease-in-out;
+    transition: opacity .2s ease-in-out;
+    -moz-transition: opacity .2s ease-in-out;
+    -webkit-transition: opacity .2s ease-in-out;
     }
     span.highlight {
         background-color: #ffffd0;
     }
   </style>
-  </head>
+  <style>
+    @media (max-width: 768px) {  /* when screen width ≤ 768px (typical mobile) */
+      table.responsive td {
+        display: block;
+        width: 100% !important;  /* stack each cell full width */
+      }
+      table.responsive tr {
+        display: block;
+      }
+    }
+  </style>
+</head>
 
 
 

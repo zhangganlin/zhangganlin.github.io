@@ -7,7 +7,7 @@
 
 
 <heading><strong>ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association</strong></heading>
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
+<table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <tr>  
     <td width="40%" data-prefix="vista">
       <div class="one">
@@ -48,7 +48,7 @@
 
 
 <heading><strong>Back on Track: Bundle Adjustment for Dynamic Scene Reconstruction</strong></heading>
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
+<table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <tr>  
     <td width="40%" data-prefix="batrack">
       <div class="one">
@@ -92,7 +92,7 @@
 
 
 <heading><strong>Splat-SLAM: Globally Optimized RGB-only SLAM with 3D Gaussians</strong> </heading>
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
+<table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
     <img src="/images/publications/splatslam.jpg" width="100%"> </div>
@@ -127,7 +127,7 @@
 
   
 <heading><strong>GlORIE-SLAM: Globally Optimized RGB-only Implicit Encoding Point Cloud SLAM</strong></heading>
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
+<table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <tr>  
     <td width="40%" data-prefix="glorie">
       <div class="one">
@@ -171,7 +171,7 @@
 
 
 <heading><strong>Revisiting Rotation Averaging: Uncertainties and Robust Losses</strong> </heading>
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
+<table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
     <img src="/images/publications/rotationAverage.png" width="100%"> </div>

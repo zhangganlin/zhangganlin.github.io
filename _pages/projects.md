@@ -1,5 +1,5 @@
 <heading><strong>Holo-Spot: Accessible Robot Control in Mixed Reality</strong></heading>
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
+<table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <tr>  
     <td width="40%" data-prefix="holo">
       <div class="one">
@@ -40,7 +40,7 @@
 
 
 <heading><strong>NICE-SLAM with Adaptive Feature Grids</strong></heading>
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
   <tr> 
     <td width="40%" data-prefix="nice">
       <div class="one">
@@ -75,7 +75,7 @@
 <hr>
 
 <heading><strong>Optimization by Particle Swarm Using Surrogates via Bunch-Kaufman Pivoting and Standard Optimization</strong> </heading>
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
+<table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
     <center><img src="/images/projects/opus.png" width="80%"> </center></div>
@@ -104,7 +104,7 @@
 <hr>
 
 <heading><strong>Improved PSMNet for Deep Stereo Disparity Estimation</strong> </heading>
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
+<table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
     <img src="/images/projects/psm.png" width="100%"> </div>
@@ -131,7 +131,7 @@
 <hr>
 
 <heading><strong>Robot Art: Using Robot Arm to Draw Pictures</strong></heading>
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
+<table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <tr>  
     <td width="40%" data-prefix="roboart">
       <div class="one">
