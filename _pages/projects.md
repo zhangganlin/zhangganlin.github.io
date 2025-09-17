@@ -147,7 +147,7 @@
     <td valign="top" width="75%">
       <papertitle>
         <strong>
-          <a href="https://sites.google.com/berkeley.edu/ee106a-roboart" target="_blank">
+          <a href="https://sites.google.com/view/eecs106a-roboart" target="_blank">
             Robot Art: Using Robot Arm to Draw Pictures
           </a>
         </strong>
