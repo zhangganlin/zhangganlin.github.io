@@ -162,7 +162,7 @@
       <em>Course project of Introduction to Robotics 2019 in UC Berkeley</em>
       <br>
       <a href="https://github.com/Ten1o/EE106A-RoboArt" target="_blank">Github Repo</a> | 
-      <a href="https://sites.google.com/berkeley.edu/ee106a-roboart" target="_blank">Project website</a>
+      <a href="https://sites.google.com/view/ee106a-roboart" target="_blank">Project website</a>
       <br>
       We design a path-finding algorithm that could generate a path to draw a portrait/character in one stroke. Then we use our self-designed control system to draw this path. This project could be used with any arm-robot with at least 4 joints.
     </td>
