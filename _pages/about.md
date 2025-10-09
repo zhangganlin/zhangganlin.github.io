@@ -83,7 +83,7 @@ Previously, I received my Master's degree in Computer Science from <a href="http
 - *<font size=3>2019 - 2020</font>*<font size=3>, Visiting Student, EECS, UC Berkeley, United States.</font> -->
 
 ## News
-<div id="news-container" data-show="3" data-padding="45" style="overflow-y: auto; padding-right: 10px;">
+<div id="news-container" data-show="3" data-padding="0" style="overflow-y: auto; padding-right: 10px;">
   <ul id="news-list">
     <li><em>2025.09</em>: 🎉🎉 <a href="https://wrchen530.github.io/projects/batrack/" target="_blank">Back on Track</a> has been selected as Best Paper Candidate of ICCV 2025!</li>
     <li><em>2025.06</em>: 🎉🎉 <a href="https://wrchen530.github.io/projects/batrack/" target="_blank">Back on Track</a> has been accepted to ICCV 2025 and selected for an oral presentation!</li>
