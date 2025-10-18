@@ -80,7 +80,7 @@
       <br>
       <em><strong>ICCV</strong> 2025 <span style="color:rgb(255, 94, 0);font-weight: bold;">(Best Paper Candidate)</span></em>
       <br>
-      <a href="https://wrchen530.github.io/projects/batrack/" target="_blank">Github Repo (Coming Soon)</a> | 
+      <a href="https://github.com/wrchen530/batrack" target="_blank">Github Repo</a> | 
       <a href="https://arxiv.org/abs/2504.14516" target="_blank">ArXiv</a> | 
       <a href="https://wrchen530.github.io/projects/batrack/" target="_blank">Project website</a>
       <br>
