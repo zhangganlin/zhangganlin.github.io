@@ -85,6 +85,7 @@ Previously, I received my Master's degree in Computer Science from <a href="http
 ## News
 <div id="news-container" data-show="3" data-padding="0" style="overflow-y: auto; padding-right: 10px;">
   <ul id="news-list">
+    <li><em>2025.11</em>: 🎉🎉 <a href="https://ganlinzhang.xyz/vista-slam/" target="_blank">ViSTA-SLAM</a> has been accepted to 3DV 2026!</li>
     <li><em>2025.09</em>: 🎉🎉 <a href="https://wrchen530.github.io/projects/batrack/" target="_blank">BA-Track</a> has been selected as Best Paper Candidate of ICCV 2025!</li>
     <li><em>2025.06</em>: 🎉🎉 <a href="https://wrchen530.github.io/projects/batrack/" target="_blank">BA-Track</a> has been accepted to ICCV 2025 and selected for an oral presentation!</li>
     <li><em>2024.08</em>: I have joined <a href="https://cvg.cit.tum.de/" target="_blank">TUM Computer Vision Group </a> as a PhD student, supervised by <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Prof. Daniel Cremers</a>!</li>
