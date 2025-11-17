@@ -34,7 +34,7 @@
       <a href="https://xiwang1212.github.io/homepage/" target="_blank">Xi Wang</a>, 
       <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Daniel Cremers</a>
       <br>
-      <em>Preprint on ArXiv, 2025</em>
+      <em><strong>3DV</strong> 2026</em>
       <br>
       <a href="https://github.com/zhangganlin/vista-slam" target="_blank">Github Repo</a> | 
       <a href="https://arxiv.org/abs/2509.01584" target="_blank">ArXiv</a> | 
