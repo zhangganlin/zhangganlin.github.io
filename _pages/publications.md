@@ -160,8 +160,7 @@
     <em><strong>CVPRW</strong> 2025</em>
     <br>
     <a href="https://github.com/google-research/Splat-SLAM" target="_blank">Github Repo</a> | 
-    <a href="https://openaccess.thecvf.com/content/CVPR2025W/VOCVALC/papers/Sandstrom_Splat-SLAM_Globally_Optimized_RGB-only_SLAM_with_3D_Gaussians_CVPRW_2025_paper.pdf" target="_blank">Paper</a> | 
-    <a href="https://openaccess.thecvf.com/content/CVPR2025W/VOCVALC/supplemental/Sandstrom_Splat-SLAM_Globally_Optimized_CVPRW_2025_supplemental.pdf" target="_blank">Supp</a>
+    <a href="https://openaccess.thecvf.com/content/CVPR2025W/VOCVALC/html/Sandstrom_Splat-SLAM_Globally_Optimized_RGB-only_SLAM_with_3D_Gaussians_CVPRW_2025_paper.html" target="_blank">Paper</a>
     <br>
     We use a keyframe based frame to frame tracker based on dense optical flow connected to a pose graph for global consistency. For dense mapping, we resort to a 3DGS representation, suitable for extracting both dense geometry and rendering from.
   </td>
