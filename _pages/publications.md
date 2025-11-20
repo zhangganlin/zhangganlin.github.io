@@ -46,6 +46,49 @@
 </table>
 <hr>
 
+<heading><strong>SNI-SLAM++: Tightly-coupled Semantic Neural Implicit SLAM</strong></heading>
+<table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
+  <tr>  
+    <td width="40%" data-prefix="sniplus">
+      <div class="one">
+        <div class="two shape" style="width: 100%;">
+          <video autoplay muted loop playsinline width="100%">
+            <source src="/images/publications/snislamplus.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+        </div>
+        <img src="/images/publications/snislamplus.png" style="width: 100%;" class="img"/>
+      </div>       
+    </td>
+    <td valign="top" width="75%">
+      <papertitle>
+        <strong>
+          <a href="https://irmvlab.github.io/sni-slam-plus.github.io/" target="_blank">
+            SNI-SLAM++: Tightly-coupled Semantic Neural Implicit SLAM
+          </a>
+        </strong>
+      </papertitle>
+      <br>
+      <a href="https://scholar.google.com/citations?user=I2eXSE0AAAAJ" target="_blank">Siting Zhu</a>, 
+      <a href="https://guangmingw.github.io/" target="_blank">Guangming Wang</a>, 
+      <a href="https://hermannblum.net/" target="_blank">Hermann Blum</a>, 
+      <a href="https://scholar.google.com/citations?user=rrkp_usAAAAJ" target="_blank">Zhong Wang</a>, 
+      <strong>Ganlin Zhang</strong>, 
+      <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Daniel Cremers</a>,
+      <a href="https://cvg.ethz.ch/team/Prof-Dr-Marc-Pollefeys" target="_blank">Marc Pollefeys</a>,
+      <a href="https://irmv.sjtu.edu.cn/wanghesheng" target="_blank">Hesheng Wang</a>
+      <br>
+      <em><strong>TPAMI</strong> 2025</em>
+      <br>
+      <!-- <a href="https://github.com/" target="_blank">Github Repo</a> |  -->
+      <!-- <a href="https://arxiv.org/abs/2509.01584" target="_blank">ArXiv</a> |  -->
+      <a href="https://irmvlab.github.io/sni-slam-plus.github.io/" target="_blank">Project website</a>
+      <br>
+      SNI-SLAM++ is a tightly coupled semantic SLAM system that achieves robust tracking and dense semantic mapping through hierarchical semantic encoding, cross-attention feature fusion, and a semantics-coupled tracking framework.
+    </td>
+  </tr>
+</table>
+<hr>
 
 <heading><strong>Back on Track: Bundle Adjustment for Dynamic Scene Reconstruction</strong></heading>
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
