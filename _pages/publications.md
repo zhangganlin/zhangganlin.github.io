@@ -81,7 +81,7 @@
       <em><strong>TPAMI</strong> 2025</em>
       <br>
       <!-- <a href="https://github.com/" target="_blank">Github Repo</a> |  -->
-      <!-- <a href="https://arxiv.org/abs/2509.01584" target="_blank">ArXiv</a> |  -->
+      <a href="https://ieeexplore.ieee.org/document/11260914" target="_blank">Paper</a> | 
       <a href="https://irmvlab.github.io/sni-slam-plus.github.io/" target="_blank">Project website</a>
       <br>
       SNI-SLAM++ is a tightly coupled semantic SLAM system that achieves robust tracking and dense semantic mapping through hierarchical semantic encoding, cross-attention feature fusion, and a semantics-coupled tracking framework.
