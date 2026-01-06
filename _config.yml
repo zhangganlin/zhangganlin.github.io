@@ -88,7 +88,7 @@ author:
   location         : "Munich"
   employer         :
   pubmed           :
-  # orcid            : "0009-0001-6089-8225"
+  orcid            : "0009-0001-6089-8225"
   googlescholar    : "https://scholar.google.com/citations?user=1B_T56IAAAAJ"
   email            : "ganlin.zhang@tum.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
