@@ -5,6 +5,38 @@
 
 <hr> -->
 
+<heading><strong>NOVA3R: Non-pixel-aligned Visual Transformer for Amodal 3D Reconstruction</strong></heading>
+<table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
+  <tr>  
+    <td width="40%">
+      <div class="one">
+      <img src="https://wrchen530.github.io/images/nova3r.png" width="100%"> </div>
+    </td>
+    <td valign="top" width="75%">
+      <papertitle>
+        <strong>
+          <a href="https://openreview.net/forum?id=c0QRZMKwSb" target="_blank">
+            NOVA3R: Non-pixel-aligned Visual Transformer for Amodal 3D Reconstruction
+          </a>
+        </strong>
+      </papertitle>
+      <br>
+      <a href="https://wrchen530.github.io/" target="_blank">Weirong Chen</a>, 
+      <a href="https://physicalvision.github.io/people/~chuanxia" target="_blank">Chuanxia Zheng</a>, 
+      <strong>Ganlin Zhang</strong>, 
+      <a href="https://www.robots.ox.ac.uk/~vedaldi/" target="_blank">Andrea Vedaldi</a>, 
+      <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Daniel Cremers</a>
+      <br>
+      <em><strong>ICLR</strong> 2026</em>
+      <br>
+      <a href="https://openreview.net/forum?id=c0QRZMKwSb" target="_blank">Preprint</a>  
+      <br>
+      NOVA3R is a feed-forward method for non-pixel-aligned 3D reconstruction from unposed images that learns a global, view-agnostic scene representation via scene tokens and a diffusion-based 3D decoder, enabling complete and physically plausible geometry and outperforming state of the art in accuracy and completeness.
+    </td>
+  </tr>
+</table>
+<hr>
+
 
 <heading><strong>ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association</strong></heading>
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
