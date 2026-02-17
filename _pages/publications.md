@@ -5,6 +5,39 @@
 
 <hr> -->
 
+<heading><strong>Flow4R: Unifying 4D Reconstruction and Tracking with Scene Flow</strong></heading>
+<table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
+  <tr>  
+    <td width="40%">
+      <div class="one">
+      <img src="https://shenhanqian.github.io/assets/2026-02-12-flow4r/cover.jpg" width="100%"> </div>
+    </td>
+    <td valign="top" width="75%">
+      <papertitle>
+        <strong>
+          <a href="https://shenhanqian.github.io/flow4r" target="_blank">
+            Flow4R: Unifying 4D Reconstruction and Tracking with Scene Flow
+          </a>
+        </strong>
+      </papertitle>
+      <br>
+      <a href="https://shenhanqian.github.io/" target="_blank">Shenhan Qian</a>, 
+      <strong>Ganlin Zhang</strong>, 
+      <a href="https://elliottwu.com/" target="_blank">Shangzhe Wu</a>, 
+      <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Daniel Cremers</a>
+      <br>
+      <em>Preprint on arXiv, 2026</em>
+      <br>
+      <a href="https://arxiv.org/abs/2602.14021" target="_blank">arXiv</a> | 
+      <a href="https://shenhanqian.github.io/flow4r" target="_blank">Project website</a>
+      <br>
+      Flow4R is a feed-forward framework for dynamic 4D reconstruction and tracking from unposed image pairs. By modeling camera-space scene flow as a unified representation of geometry, object motion, and camera motion, it predicts 3D position and bidirectional motion in a single forward pass without explicit pose regression or bundle adjustment, achieving state-of-the-art accuracy and temporal consistency.
+    </td>
+  </tr>
+</table>
+<hr>
+
+
 <heading><strong>NOVA3R: Non-pixel-aligned Visual Transformer for Amodal 3D Reconstruction</strong></heading>
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <tr>  
@@ -69,7 +102,7 @@
       <em><strong>3DV</strong> 2026</em>
       <br>
       <a href="https://github.com/zhangganlin/vista-slam" target="_blank">Github Repo</a> | 
-      <a href="https://arxiv.org/abs/2509.01584" target="_blank">ArXiv</a> | 
+      <a href="https://arxiv.org/abs/2509.01584" target="_blank">arXiv</a> | 
       <a href="https://ganlinzhang.xyz/vista-slam/" target="_blank">Project website</a>
       <br>
       ViSTA-SLAM is a real-time monocular dense SLAM pipeline that combines a Symmetric Two-view Association (STA) frontend with Sim(3) pose graph optimization and loop closure, enabling accurate camera trajectories and high-quality 3D scene reconstruction from RGB inputs.
@@ -156,7 +189,7 @@
       <em><strong>ICCV</strong> 2025 <span style="color:rgb(255, 94, 0);font-weight: bold;">(Best Paper Candidate)</span></em>
       <br>
       <a href="https://github.com/wrchen530/batrack" target="_blank">Github Repo</a> | 
-      <a href="https://arxiv.org/abs/2504.14516" target="_blank">ArXiv</a> | 
+      <a href="https://arxiv.org/abs/2504.14516" target="_blank">arXiv</a> | 
       <a href="https://wrchen530.github.io/projects/batrack/" target="_blank">Project website</a>
       <br>
       A method for consistent dynamic scene reconstruction via motion decoupling, bundle adjustment, and global refinement.
@@ -230,10 +263,10 @@
       <a href="https://vision.ee.ethz.ch/people-details.OTAyMzM=.TGlzdC8zMjg3LC0xOTcxNDY1MTc4.html" target="_blank">Luc Van Gool</a>, 
       <a href="https://oswaldm.github.io/" target="_blank">Martin R. Oswald</a>
       <br>
-      <em>Preprint on ArXiv, 2024</em>
+      <em>Preprint on arXiv, 2024</em>
       <br>
       <a href="https://github.com/zhangganlin/GlORIE-SLAM" target="_blank">Github Repo</a> | 
-      <a href="https://arxiv.org/abs/2403.19549" target="_blank">ArXiv</a> | 
+      <a href="https://arxiv.org/abs/2403.19549" target="_blank">arXiv</a> | 
       <a href="https://zhangganlin.github.io/GlORIE-SLAM/index.html" target="_blank">Project website</a>
       <br>
       1. A monocular SLAM pipeline with deformable neural point cloud scene representation. <br>
@@ -264,7 +297,7 @@
     <em><strong>CVPR</strong> 2023</em>
     <br>
     <a href="https://github.com/zhangganlin/GlobalSfMpy" target="_blank">Github Repo</a> | 
-    <a href="https://arxiv.org/abs/2303.05195" target="_blank">ArXiv</a>
+    <a href="https://arxiv.org/abs/2303.05195" target="_blank">arXiv</a>
     <br>
     1. Better model the underlying noise distributions by directly propagating the uncertainty from the point correspondences into the rotation averaging. <br>
     2. Integrate a variant of the MAGSAC++ loss into the rotation averaging, instead of using the classical robust losses.
