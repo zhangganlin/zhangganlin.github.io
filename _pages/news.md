@@ -1,6 +1,6 @@
 <div id="news-container" data-show="3" data-padding="0" style="overflow-y: auto; padding-right: 10px;">
   <ul id="news-list">
-    <li><em>2026.01</em>: 🎉🎉 <a href="https://openreview.net/forum?id=c0QRZMKwSb" target="_blank">NOVA3R</a> has been accepted to ICLR 2026!</li>
+    <li><em>2026.01</em>: 🎉🎉 <a href="https://wrchen530.github.io/nova3r/" target="_blank">NOVA3R</a> has been accepted to ICLR 2026!</li>
     <li><em>2025.11</em>: 🎉🎉 <a href="https://ganlinzhang.xyz/vista-slam/" target="_blank">ViSTA-SLAM</a> has been accepted to 3DV 2026!</li>
     <li><em>2025.11</em>: 🎉🎉 <a href="https://irmvlab.github.io/sni-slam-plus.github.io/" target="_blank">SNI-SLAM++</a> has been accepted to T-PAMI!</li>
     <li><em>2025.09</em>: 🎉🎉 <a href="https://wrchen530.github.io/projects/batrack/" target="_blank">BA-Track</a> has been selected as Best Paper Candidate of ICCV 2025! Congrats to Weirong!</li>
