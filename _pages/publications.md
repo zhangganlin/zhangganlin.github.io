@@ -64,7 +64,7 @@
       <br>
       <a href="https://openreview.net/forum?id=c0QRZMKwSb" target="_blank">Paper</a> | 
       <a href="https://wrchen530.github.io/nova3r/" target="_blank">Project website</a> |
-      <a href="https://wrchen530.github.io/nova3r/" target="_blank">Github Repo (coming soon)</a> 
+      <a href="https://github.com/wrchen530/nova3r" target="_blank">Github Repo</a> 
       <br>
       NOVA3R is a feed-forward method for non-pixel-aligned 3D reconstruction from unposed images that learns a global, view-agnostic scene representation via scene tokens and a diffusion-based 3D decoder, enabling complete and physically plausible geometry and outperforming state of the art in accuracy and completeness.
     </td>
