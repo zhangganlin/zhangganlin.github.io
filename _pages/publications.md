@@ -40,10 +40,17 @@
 
 <heading><strong>NOVA3R: Non-pixel-aligned Visual Transformer for Amodal 3D Reconstruction</strong></heading>
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
-  <tr>  
-    <td width="40%">
+  <tr> 
+    <td width="40%" data-prefix="nova3r">
       <div class="one">
-      <img src="https://wrchen530.github.io/images/nova3r.png" width="100%"> </div>
+        <div class="two shape" style="width: 100%;">
+          <video autoplay muted loop playsinline width="100%">
+            <source src="https://wrchen530.github.io/nova3r/static/images/nova3r_demo.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+        </div>
+        <img src="https://wrchen530.github.io/images/nova3r.png" style="width: 100%;" class="img"/>
+      </div>       
     </td>
     <td valign="top" width="75%">
       <papertitle>
