@@ -15,7 +15,7 @@
     <td valign="top" width="75%">
       <papertitle>
         <strong>
-          <a href="https://zhangganlin.github.io/Holo-Spot-Page/index.html" target="_blank">
+          <a href="https://zhangganlin.github.io/Holo-Spot-Page/" target="_blank">
             Holo-Spot: Accessible Robot Control in Mixed Reality
           </a>
         </strong>
