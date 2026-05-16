@@ -1,4 +1,4 @@
-<heading><strong>Holo-Spot: Accessible Robot Control in Mixed Reality</strong></heading>
+<heading><strong>EgoSpot: Egocentric Multimodal Control for Hands-Free Mobile Manipulation</strong></heading>
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <tr>  
     <td width="40%" data-prefix="holo">
@@ -16,7 +16,7 @@
       <papertitle>
         <strong>
           <a href="https://zhangganlin.github.io/Holo-Spot-Page/" target="_blank">
-            Holo-Spot: Accessible Robot Control in Mixed Reality
+            EgoSpot: Egocentric Multimodal Control for Hands-Free Mobile Manipulation
           </a>
         </strong>
       </papertitle>
@@ -26,7 +26,7 @@
       <a href="https://ch.linkedin.com/in/longteng-duan-566640205" target="_blank">Longteng Duan*</a>, 
       <a href="https://github.com/guo-han" target="_blank">Guo Han*</a>
       <br>
-      <em>Course project of Mixed Reality 2022 in ETH Zurich</em>
+      <em>Course project of Mixed Reality 2022 in ETH Zurich, accepted by ICRA 2026 MM-SpatialAI Workshop</em>
       <br>
       <a href="https://dehezhang2.github.io//holo-spot" target="_blank">Github Repo</a> | 
       <a href="https://zhangganlin.github.io/Holo-Spot-Page/index.html" target="_blank">Project website</a>
