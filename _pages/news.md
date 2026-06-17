@@ -1,4 +1,4 @@
-<div id="news-container" data-show="2" data-padding="0" style="overflow-y: auto;">
+<div id="news-container" data-show="3" data-padding="0" style="overflow-y: auto;">
   <ul id="news-list" class="news-list">
     <li><span class="news-date">01/2026</span><span class="news-body"><a href="https://wrchen530.github.io/nova3r/" target="_blank">NOVA3R</a> has been accepted to <strong>ICLR 2026</strong>!</span></li>
     <li><span class="news-date">11/2025</span><span class="news-body"><a href="https://ganlinzhang.xyz/vista-slam/" target="_blank">ViSTA-SLAM</a> has been accepted to <strong>3DV 2026</strong>!</span></li>
