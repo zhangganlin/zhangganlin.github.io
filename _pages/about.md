@@ -18,7 +18,7 @@ Previously, I received my Master's degree in Computer Science from <a href="http
   <a class="edu-item" href="https://www.tum.de/en/" target="_blank">
     <span class="edu-logo"><img src="./images/education/tum_logo_white.svg" style="background-color:#0e396e;"></span>
     <span class="edu-text">
-      <span class="edu-degree">PhD, Computer Science</span>
+      <span class="edu-degree">PhD (ongoing), Computer Science</span>
       <span class="edu-school">TU Munich</span>
     </span>
   </a>
