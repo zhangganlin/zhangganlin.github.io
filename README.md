@@ -35,8 +35,17 @@ There is one logistical issue with a ready-to-fork template theme like academic 
 To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
 
 
-
-##
+## test in docker
 ```bash
-bundle exec jekyll serve
+# load and start docker
+ml container/rootless-docker
+export DOCKER_DATAROOT=/storage/local/zga/docker/dataroot
+export DOCKER_TMPDIR=/storage/local/zga/docker/tmp
+start_rootless_docker.sh --quiet
+
+docker run --rm -it \
+    -p 4000:4000 \
+    -v ${PWD}:/src/site \
+    gh-pages \
+    sh -c "BUNDLE_GEMFILE=/src/site/Gemfile bundle install && BUNDLE_GEMFILE=/src/site/Gemfile bundle exec jekyll serve -H 0.0.0.0 -P 4000"
 ```
