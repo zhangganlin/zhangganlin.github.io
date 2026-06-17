@@ -51,6 +51,10 @@ $muted: #6b7480;
 /* Faint off-white page so the white cards lift off the background */
 body { background-color: #fafbfc; }
 
+/* Slightly smaller base font (theme bumps to 18px on desktop, which reads big) */
+html { font-size: 15px; }
+@media (min-width: 48em) { html { font-size: 16px; } }
+
 /* Match the top menu bar to the page background */
 .greedy-nav { background: #fafbfc; }
 
