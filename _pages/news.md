@@ -1,5 +1,7 @@
 <div id="news-container" data-show="3" data-padding="0" style="overflow-y: auto;">
   <ul id="news-list" class="news-list">
+    <li><span class="news-date">06/2026</span><span class="news-body">I have joined <a href="https://research.google/" target="_blank">Google</a> as a Student Researcher Intern!</span></li>
+    <li><span class="news-date">06/2026</span><span class="news-body"><a href="https://shenhanqian.github.io/flow4r" target="_blank">Flow4R</a> has been accepted to <strong>ECCV 2026</strong>!</span></li>
     <li><span class="news-date">01/2026</span><span class="news-body"><a href="https://wrchen530.github.io/nova3r/" target="_blank">NOVA3R</a> has been accepted to <strong>ICLR 2026</strong>!</span></li>
     <li><span class="news-date">11/2025</span><span class="news-body"><a href="https://ganlinzhang.xyz/vista-slam/" target="_blank">ViSTA-SLAM</a> has been accepted to <strong>3DV 2026</strong>!</span></li>
     <li><span class="news-date">11/2025</span><span class="news-body"><a href="https://irmvlab.github.io/sni-slam-plus.github.io/" target="_blank">SNI-SLAM++</a> has been accepted to <strong>T-PAMI</strong>!</span></li>
