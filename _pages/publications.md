@@ -1,4 +1,33 @@
 <div class="pub-card">
+  <div class="pub-thumb" data-prefix="bat">
+    <div class="one">
+      <div class="two shape" style="width: 100%;">
+        <video autoplay muted loop playsinline width="100%">
+          <source src="/images/publications/bat.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+      <img src="/images/publications/bat.png" style="width: 100%;" class="img"/>
+    </div>
+  </div>
+  <div class="pub-info">
+    <div class="pub-title"><a href="https://arxiv.org/abs/2606.03287" target="_blank">BA-T: An Iterative Transformer for Two-View Bundle Adjustment</a></div>
+    <div class="pub-authors">
+      <strong>Ganlin Zhang</strong>,
+      <a href="https://wrchen530.github.io/" target="_blank">Weirong Chen</a>,
+      <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Daniel Cremers</a>,
+      <a href="https://xiwang1212.github.io/homepage/" target="_blank">Xi Wang</a>
+    </div>
+    <div class="pub-links">
+      <span class="badge">arXiv 2026</span>
+      <a class="pill" href="https://arxiv.org/abs/2606.03287" target="_blank">arXiv</a>
+      <a class="pill" href="https://github.com/zhangganlin/BA-T" target="_blank">Code (coming soon)</a>
+    </div>
+    <p class="pub-abstract">BA-T is an iterative Transformer for two-view bundle adjustment that implements BA-style structured updates as a single lightweight, repeatable layer in implicit token space. Rather than relying on deep attention stacks, it refines poses and local geometry from latent residuals across iterations, achieving stronger cross-view consistency and matching or surpassing much larger models while using only 16% of their decoder parameters.</p>
+  </div>
+</div>
+
+<div class="pub-card">
   <div class="pub-thumb">
     <div class="one">
       <img src="https://shenhanqian.github.io/assets/2026-02-12-flow4r/cover.jpg" class="img"/>
@@ -13,7 +42,7 @@
       <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Daniel Cremers</a>
     </div>
     <div class="pub-links">
-      <span class="badge">arXiv 2026</span>
+      <span class="badge">ECCV 2026</span>
       <a class="pill" href="https://shenhanqian.github.io/flow4r" target="_blank">Project</a>
       <a class="pill" href="https://arxiv.org/abs/2602.14021" target="_blank">arXiv</a>
     </div>

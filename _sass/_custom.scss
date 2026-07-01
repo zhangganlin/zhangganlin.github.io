@@ -333,6 +333,22 @@ html { font-size: 15px; }
   gap: 10px;
   margin: 1em 0 1.5em;
 }
+/* Balance items across rows: <=4 items on one row, >=5 items split into two
+   near-equal rows with ceil(n/2) columns (5->3, 6->3, 7->4, 8->4, ...).
+   Each rule matches an exact item count via a quantity query. Desktop only —
+   mobile keeps the 2-column layout below. */
+@media (min-width: 769px) {
+  .edu-list:has(> :nth-child(1)):not(:has(> :nth-child(2)))  { grid-template-columns: repeat(1, 1fr); }
+  .edu-list:has(> :nth-child(2)):not(:has(> :nth-child(3)))  { grid-template-columns: repeat(2, 1fr); }
+  .edu-list:has(> :nth-child(3)):not(:has(> :nth-child(4)))  { grid-template-columns: repeat(3, 1fr); }
+  .edu-list:has(> :nth-child(4)):not(:has(> :nth-child(5)))  { grid-template-columns: repeat(4, 1fr); }
+  .edu-list:has(> :nth-child(5)):not(:has(> :nth-child(6)))  { grid-template-columns: repeat(3, 1fr); }
+  .edu-list:has(> :nth-child(6)):not(:has(> :nth-child(7)))  { grid-template-columns: repeat(3, 1fr); }
+  .edu-list:has(> :nth-child(7)):not(:has(> :nth-child(8)))  { grid-template-columns: repeat(4, 1fr); }
+  .edu-list:has(> :nth-child(8)):not(:has(> :nth-child(9)))  { grid-template-columns: repeat(4, 1fr); }
+  .edu-list:has(> :nth-child(9)):not(:has(> :nth-child(10))) { grid-template-columns: repeat(5, 1fr); }
+  .edu-list:has(> :nth-child(10)):not(:has(> :nth-child(11))){ grid-template-columns: repeat(5, 1fr); }
+}
 .edu-item {
   display: flex;
   align-items: center;

@@ -13,8 +13,17 @@ Hi, I'm Ganlin Zhang (张甘霖), a PhD student at <a href="https://www.tum.de/e
 
 Previously, I received my Master's degree in Computer Science from <a href="https://ethz.ch/en.html" target="_blank">ETH Zurich</a>, where I worked on 3D Vision research projects with <a href="https://vision.ee.ethz.ch/people-details.OTAyMzM=.TGlzdC8zMjg3LC0xOTcxNDY1MTc4.html" target="_blank">Prof. Luc Van Gool</a> and <a href="https://people.inf.ethz.ch/marc.pollefeys/" target="_blank">Prof. Marc Pollefeys</a>. Before that, I obtained my Bachelor's degree in Computer Science from <a href="http://www.shanghaitech.edu.cn/eng/" target="_blank">ShanghaiTech University</a>, supervised by <a href="https://mpl.sist.shanghaitech.edu.cn/Director.html" target="_blank">Prof. Laurent Kneip</a>. During my undergraduate studies, I also spent a year at UC Berkeley, as a visiting student.
 
+I'm at Google Zurich as a Student Researcher this summer.
+
 <h2 class="section-heading" id="experience">Experience</h2>
 <div class="edu-list">
+  <a class="edu-item" href="https://research.google/" target="_blank">
+    <span class="edu-logo"><img src="./images/education/google_logo.svg"></span>
+    <span class="edu-text">
+      <span class="edu-degree">Student Researcher</span>
+      <span class="edu-school">Google · Summer 2026</span>
+    </span>
+  </a>
   <a class="edu-item" href="https://www.tum.de/en/" target="_blank">
     <span class="edu-logo"><img src="./images/education/tum_logo_white.svg" style="background-color:#0e396e;"></span>
     <span class="edu-text">
