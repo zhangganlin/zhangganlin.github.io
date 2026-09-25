@@ -11,7 +11,7 @@
     </div>
   </div>
   <div class="pub-info">
-    <div class="pub-title"><a href="https://arxiv.org/abs/2606.03287" target="_blank">BA-T: An Iterative Transformer for Two-View Bundle Adjustment</a></div>
+    <div class="pub-title"><a href="https://ganlinzhang.xyz/BA-T/" target="_blank">BA-T: An Iterative Transformer for Two-View Bundle Adjustment</a></div>
     <div class="pub-authors">
       <strong>Ganlin Zhang</strong>,
       <a href="https://wrchen530.github.io/" target="_blank">Weirong Chen</a>,
@@ -20,6 +20,7 @@
     </div>
     <div class="pub-links">
       <span class="badge">NeurIPS 2026</span>
+      <a class="pill" href="https://ganlinzhang.xyz/BA-T/" target="_blank">Project</a>
       <a class="pill" href="https://arxiv.org/abs/2606.03287" target="_blank">arXiv</a>
       <a class="pill" href="https://github.com/zhangganlin/BA-T" target="_blank">Code (coming soon)</a>
     </div>
