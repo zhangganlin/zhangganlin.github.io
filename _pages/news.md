@@ -1,5 +1,6 @@
 <div id="news-container" data-show="3" data-padding="0" style="overflow-y: auto;">
   <ul id="news-list" class="news-list">
+    <li><span class="news-date">09/2026</span><span class="news-body"><a href="https://arxiv.org/abs/2606.03287" target="_blank">BA-T</a> has been accepted to <strong>NeurIPS 2026</strong>!</span></li>
     <li><span class="news-date">06/2026</span><span class="news-body">I have joined <a href="https://research.google/" target="_blank">Google</a> as a Student Researcher Intern!</span></li>
     <li><span class="news-date">06/2026</span><span class="news-body"><a href="https://shenhanqian.github.io/flow4r" target="_blank">Flow4R</a> has been accepted to <strong>ECCV 2026</strong>!</span></li>
     <li><span class="news-date">01/2026</span><span class="news-body"><a href="https://wrchen530.github.io/nova3r/" target="_blank">NOVA3R</a> has been accepted to <strong>ICLR 2026</strong>!</span></li>

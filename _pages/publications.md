@@ -19,7 +19,7 @@
       <a href="https://xiwang1212.github.io/homepage/" target="_blank">Xi Wang</a>
     </div>
     <div class="pub-links">
-      <span class="badge">arXiv 2026</span>
+      <span class="badge">NeurIPS 2026</span>
       <a class="pill" href="https://arxiv.org/abs/2606.03287" target="_blank">arXiv</a>
       <a class="pill" href="https://github.com/zhangganlin/BA-T" target="_blank">Code (coming soon)</a>
     </div>
