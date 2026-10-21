@@ -22,7 +22,7 @@
       <span class="badge">NeurIPS 2026</span>
       <a class="pill" href="https://ganlinzhang.xyz/BA-T/" target="_blank">Project</a>
       <a class="pill" href="https://arxiv.org/abs/2606.03287" target="_blank">arXiv</a>
-      <a class="pill" href="https://github.com/zhangganlin/BA-T" target="_blank">Code (coming soon)</a>
+      <a class="pill" href="https://github.com/zhangganlin/BA-T" target="_blank">Code</a>
     </div>
     <p class="pub-abstract">BA-T is an iterative Transformer for two-view bundle adjustment that implements BA-style structured updates as a single lightweight, repeatable layer in implicit token space. Rather than relying on deep attention stacks, it refines poses and local geometry from latent residuals across iterations, achieving stronger cross-view consistency and matching or surpassing much larger models while using only 16% of their decoder parameters.</p>
   </div>
