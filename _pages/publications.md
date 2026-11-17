@@ -22,7 +22,7 @@
       <a class="pill" href="https://wrchen530.github.io/anchor-complete/" target="_blank">Project</a>
       <a class="pill" href="https://arxiv.org/abs/2611.03228" target="_blank">arXiv</a>
     </div>
-    <p class="pub-abstract">AnchorComplete recovers complete scene meshes from partial point clouds produced by image-based 3D reconstruction. A partial-point conditioning module anchors generation to the observed geometry, and metric-scale coarse-to-fine generation over an octree of fixed-size metric windows keeps mesh cells at 0.78 cm regardless of scene size, outperforming strong baselines on Replica and SCRREAM, especially with sparse views.</p>
+    <p class="pub-abstract">AnchorComplete turns partial point clouds into complete scene meshes, preserves observed geometry, and scales from individual rooms to large multi-room scenes through metric-scale coarse-to-fine generation.</p>
   </div>
 </div>
 
