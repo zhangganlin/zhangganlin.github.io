@@ -1,4 +1,32 @@
 <div class="pub-card">
+  <div class="pub-thumb">
+    <div class="one">
+      <div class="two shape" style="width: 100%;">
+        <img loading="lazy" src="https://wrchen530.github.io/images/anchorcomplete_pipeline_hover.gif" style="width: 100%; height: 100%; object-fit: cover;"/>
+      </div>
+      <img src="https://wrchen530.github.io/images/anchorcomplete_pipeline_thumb.webp" style="width: 100%;" class="img"/>
+    </div>
+  </div>
+  <div class="pub-info">
+    <div class="pub-title"><a href="https://wrchen530.github.io/anchor-complete/" target="_blank">Recovering Complete Scene Meshes from Partial Point Clouds</a></div>
+    <div class="pub-authors">
+      <a href="https://wrchen530.github.io/" target="_blank">Weirong Chen</a>,
+      <a href="https://www.linkedin.com/in/ismail-el-yamany/" target="_blank">Ismail El-Yamany</a>,
+      <strong>Ganlin Zhang</strong>,
+      <a href="https://physicalvision.github.io/people/~chuanxia" target="_blank">Chuanxia Zheng</a>,
+      <a href="https://www.robots.ox.ac.uk/~vedaldi/" target="_blank">Andrea Vedaldi</a>,
+      <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Daniel Cremers</a>
+    </div>
+    <div class="pub-links">
+      <span class="badge">arXiv 2026</span>
+      <a class="pill" href="https://wrchen530.github.io/anchor-complete/" target="_blank">Project</a>
+      <a class="pill" href="https://arxiv.org/abs/2611.03228" target="_blank">arXiv</a>
+    </div>
+    <p class="pub-abstract">AnchorComplete recovers complete scene meshes from partial point clouds produced by image-based 3D reconstruction. A partial-point conditioning module anchors generation to the observed geometry, and metric-scale coarse-to-fine generation over an octree of fixed-size metric windows keeps mesh cells at 0.78 cm regardless of scene size, outperforming strong baselines on Replica and SCRREAM, especially with sparse views.</p>
+  </div>
+</div>
+
+<div class="pub-card">
   <div class="pub-thumb" data-prefix="bat">
     <div class="one">
       <div class="two shape" style="width: 100%;">
