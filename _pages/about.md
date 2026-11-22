@@ -17,11 +17,11 @@ Currently I'm on an internship at Google as a Student Researcher.
 
 <h2 class="section-heading" id="experience">Experience</h2>
 <div class="edu-list">
-  <a class="edu-item" href="https://research.google/" target="_blank">
+  <a class="edu-item" href="https://arvr.google.com/" target="_blank">
     <span class="edu-logo"><img src="./images/education/google_logo.svg"></span>
     <span class="edu-text">
       <span class="edu-degree">Student Researcher</span>
-      <span class="edu-school">Google · Summer 2026</span>
+      <span class="edu-school">Google XR · 2026</span>
     </span>
   </a>
   <a class="edu-item" href="https://www.tum.de/en/" target="_blank">
