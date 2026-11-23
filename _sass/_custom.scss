@@ -255,6 +255,12 @@ html { font-size: 15px; }
 .pub-thumb .two video { height: 100%; object-fit: cover; }
 .pub-card:hover .pub-thumb .two { opacity: 1; }
 
+/* letterbox the teaser (and hover media) into a 16:9 box */
+.pub-thumb--wide .one { aspect-ratio: 16 / 9; }
+.pub-thumb--wide .one > img,
+.pub-thumb--wide .two img,
+.pub-thumb--wide .two video { width: 100%; height: 100%; object-fit: contain; }
+
 /* Non-clickable venue/award badge, shown as the first item(s) in the links row */
 .pub-links .badge {
   font-size: 12px;

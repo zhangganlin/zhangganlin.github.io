@@ -1,14 +1,14 @@
 <div class="pub-card">
-  <div class="pub-thumb">
+  <div class="pub-thumb pub-thumb--wide">
     <div class="one">
       <div class="two shape" style="width: 100%;">
-        <img loading="lazy" src="https://wrchen530.github.io/images/anchorcomplete_pipeline_hover.gif" style="width: 100%; height: 100%; object-fit: cover;"/>
+        <img loading="lazy" src="https://wrchen530.github.io/images/anchorcomplete_pipeline_hover.gif"/>
       </div>
       <img src="https://wrchen530.github.io/images/anchorcomplete_pipeline_thumb.webp" style="width: 100%;" class="img"/>
     </div>
   </div>
   <div class="pub-info">
-    <div class="pub-title"><a href="https://wrchen530.github.io/anchor-complete/" target="_blank">Recovering Complete Scene Meshes from Partial Point Clouds</a></div>
+    <div class="pub-title"><a href="https://wrchen530.github.io/anchor-complete/" target="_blank">AnchorComplete: Recovering Complete Scene Meshes from Partial Point Clouds</a></div>
     <div class="pub-authors">
       <a href="https://wrchen530.github.io/" target="_blank">Weirong Chen</a>,
       <a href="https://www.linkedin.com/in/ismail-el-yamany/" target="_blank">Ismail El-Yamany</a>,
@@ -238,7 +238,7 @@
 </div>
 
 <div class="pub-card">
-  <div class="pub-thumb">
+  <div class="pub-thumb pub-thumb--wide">
     <div class="one">
       <img src="/images/publications/splatslam.jpg" class="img"/>
     </div>

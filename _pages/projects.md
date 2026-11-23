@@ -54,7 +54,7 @@
 </div>
 
 <div class="pub-card">
-  <div class="pub-thumb">
+  <div class="pub-thumb pub-thumb--wide">
     <div class="one">
       <img src="/images/projects/opus.png" class="img"/>
     </div>
