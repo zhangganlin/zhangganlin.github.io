@@ -279,12 +279,12 @@ html { font-size: 15px; }
 .pub-title a:hover { color: $accent; }
 .pub-authors { margin: 4px 0; font-size: .92em; }
 .pub-venue-line { color: $muted; font-style: italic; font-size: .9em; }
-.pub-abstract {
+.pub-info .pub-abstract {
   margin: 8px 0 0;
   font-size: .9em;
   color: #444;
   display: -webkit-box;
-  -webkit-line-clamp: 4;
+  -webkit-line-clamp: var(--abs-lines, 4);
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
