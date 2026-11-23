@@ -1,5 +1,5 @@
 <div class="pub-card">
-  <div class="pub-thumb pub-thumb--wide">
+  <div class="pub-thumb pub-thumb--wide pub-thumb--stretch">
     <div class="one">
       <div class="two shape" style="width: 100%;">
         <img loading="lazy" src="https://wrchen530.github.io/images/anchorcomplete_pipeline_hover.gif"/>

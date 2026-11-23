@@ -260,6 +260,10 @@ html { font-size: 15px; }
 .pub-thumb--wide .one > img,
 .pub-thumb--wide .two img,
 .pub-thumb--wide .two video { width: 100%; height: 100%; object-fit: contain; }
+/* ...or stretch it to fill the 16:9 box (for teasers already close to 16:9) */
+.pub-thumb--stretch .one > img,
+.pub-thumb--stretch .two img,
+.pub-thumb--stretch .two video { object-fit: fill; }
 
 /* Non-clickable venue/award badge, shown as the first item(s) in the links row */
 .pub-links .badge {
