@@ -27,6 +27,36 @@
 </div>
 
 <div class="pub-card">
+  <div class="pub-thumb" data-prefix="spadeslam">
+    <div class="one">
+      <div class="two shape" style="width: 100%;">
+        <video autoplay muted loop playsinline width="100%">
+          <source src="/images/publications/spadeslam.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+      <img src="/images/publications/spadeslam.png" style="width: 100%;" class="img"/>
+    </div>
+  </div>
+  <div class="pub-info">
+    <div class="pub-title"><a href="https://arxiv.org/abs/2611.01937" target="_blank">Spade-SLAM: Sparse Correspondence Anchors for Dense Self-Supervised Visual SLAM</a></div>
+    <div class="pub-authors">
+      <a href="https://julianpschmitt.github.io/" target="_blank">Julian Philipp Schmitt</a>,
+      <a href="https://wrchen530.github.io/" target="_blank">Weirong Chen</a>,
+      <strong>Ganlin Zhang</strong>,
+      <a href="https://fwmb.github.io/" target="_blank">Felix Wimbauer</a>,
+      <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Daniel Cremers</a>
+    </div>
+    <div class="pub-links">
+      <span class="badge">arXiv 2026</span>
+      <a class="pill" href="https://arxiv.org/abs/2611.01937" target="_blank">arXiv</a>
+      <a class="pill" href="https://github.com/JulianPSchmitt/Spade-SLAM" target="_blank">Code (coming soon)</a>
+    </div>
+    <p class="pub-abstract">Spade-SLAM is a self-supervised dense visual SLAM framework that substantially narrows the gap to supervised methods in a zero-shot setting. It combines a dense warping-based photometric loss with a sparse correspondence loss derived from image feature matches, which stabilizes optimization and suppresses drift in ambiguous regions, without any ground-truth pose or depth labels.</p>
+  </div>
+</div>
+
+<div class="pub-card">
   <div class="pub-thumb" data-prefix="bat">
     <div class="one">
       <div class="two shape" style="width: 100%;">
